@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wisconsin Crop Disease Risk Forecast</title>
+
+  <!-- Leaflet (open-source map library, no API token needed). -->
+  <link rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        crossorigin="anonymous">
+
+  <link rel="stylesheet" href="assets/uw-brand.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="https://www.wisc.edu/" class="brand-link"
+       target="_blank" rel="noopener">
+      <img src="assets/uw-logo-horizontal-color-web-digital.png"
+           alt="University of Wisconsin–Madison"
+           class="brand-logo">
+    </a>
+    <div class="site-title">
+      <h1>🌽 Wisconsin Crop Disease Risk Forecast</h1>
+      <p class="site-subtitle">
+        Daily risk forecast across Wisconet weather stations
+      </p>
+    </div>
+  </header>
+
+  <main>
+    <section class="controls">
+      <label class="control">
+        <span>Model</span>
+        <select id="model-select"></select>
+      </label>
+      <div class="control-meta">
+        <div id="forecast-date"></div>
+        <div id="generated-at" class="muted"></div>
+      </div>
+    </section>
+
+    <section id="metrics" class="metrics"></section>
+
+    <section class="map-wrapper">
+      <div id="map" role="region" aria-label="Station map"></div>
+    </section>
+
+    <section id="model-info" class="model-info"></section>
+
+    <details class="table-wrapper">
+      <summary>Station data table</summary>
+      <div class="table-scroll">
+        <table id="station-table"></table>
+      </div>
+    </details>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Source: UW–Madison Ag Forecasting API
+      <span class="sep">·</span>
+      Built nightly from <code>build_site.py</code>
+    </p>
+  </footer>
+
+  <!-- Map library. -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+          crossorigin="anonymous"></script>
+
+  <!-- Local modules. Loaded in dependency order. -->
+  <script src="lib/biomass.js"></script>
+  <script src="lib/map.js"></script>
+  <script src="lib/render.js"></script>
+  <script src="lib/app.js"></script>
+</body>
+</html>
