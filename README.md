@@ -1,4 +1,4 @@
-# Wisconsin Crop Disease Risk Forecast
+# WI Agricultural Forecasting Advisory System
 
 Streamlit dashboard that visualizes daily crop-disease risk forecasts for
 Wisconet weather stations across Wisconsin. Data comes from the UW–Madison

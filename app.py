@@ -44,7 +44,7 @@ from features.weather import fetch_weather_data, wiscopy_available
 
 
 st.set_page_config(
-    page_title="WI Crop Disease Risk Forecast",
+    page_title="WI Agricultural Forecasting Advisory System",
     page_icon="🌽",
     layout="wide",
 )
@@ -75,7 +75,7 @@ if LOGO_FULL.exists():
         unsafe_allow_html=True,
     )
 
-st.title("🌽 Wisconsin Crop Disease Risk Forecast")
+st.title("🌽 WI Agricultural Forecasting Advisory System")
 st.caption(
     "Daily risk forecast from the UW–Madison Ag Forecasting API (Wisconet stations). "
     "Data is cached on disk for 24 h per (date, risk_days)."
