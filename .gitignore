@@ -22,3 +22,5 @@ build/
 *.egg-info/
 # Local Netlify folder
 .netlify
+netlify/
+netlify.toml
