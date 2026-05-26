@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T14:57:27.910408+00:00",
-  "forecasting_date": "2026-05-24",
+  "generated_at": "2026-05-26T01:30:00.283873+00:00",
+  "forecasting_date": "2026-05-25",
   "plant_date": "2025-09-15",
   "fall_precip_default_mm": 200.0,
   "biomass_thresholds": {
@@ -84,8 +84,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1307.2944041891574,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1534.666666666666,
+      "biomass_precip_total_mm": 399.03400000000005
     },
     {
       "id": "ANGO",
@@ -107,8 +109,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1361.4686669936252,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1141.000000000001,
+      "biomass_precip_total_mm": 326.13599999999997
     },
     {
       "id": "BBCK",
@@ -130,8 +134,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1364.6998095675428,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1437.5555555555552,
+      "biomass_precip_total_mm": 386.58799999999997
     },
     {
       "id": "BCVL",
@@ -153,8 +159,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2445.988297606544,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1741.444444444445,
+      "biomass_precip_total_mm": 360.42599999999993
     },
     {
       "id": "BGHM",
@@ -176,8 +184,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2427.0679756126947,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1704.0555555555563,
+      "biomass_precip_total_mm": 359.15599999999995
     },
     {
       "id": "BKLN",
@@ -199,8 +209,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1338.454974501731,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1492.3888888888887,
+      "biomass_precip_total_mm": 393.70000000000016
     },
     {
       "id": "BLCR",
@@ -222,8 +234,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 56.424142778904134,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1340.333333333333,
+      "biomass_precip_total_mm": 510.794
     },
     {
       "id": "BRLN",
@@ -245,8 +259,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1866.0475374853115,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1405.3888888888885,
+      "biomass_precip_total_mm": 355.09200000000016
     },
     {
       "id": "BSTL",
@@ -268,8 +284,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 53.291094924550855,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1765.3888888888885,
+      "biomass_precip_total_mm": 518.668
     },
     {
       "id": "BYFD",
@@ -291,8 +309,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2428.460331435707,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1069.6666666666667,
+      "biomass_precip_total_mm": 215.90000000000003
     },
     {
       "id": "CLLK",
@@ -314,8 +334,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1708.191408876221,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1364.9444444444448,
+      "biomass_precip_total_mm": 357.1239999999999
     },
     {
       "id": "CNDN",
@@ -337,8 +359,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1905.4864500981084,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1049.9999999999998,
+      "biomass_precip_total_mm": 243.07799999999995
     },
     {
       "id": "COSP",
@@ -360,8 +384,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1084.5940046249254,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1699.4444444444443,
+      "biomass_precip_total_mm": 420.8780000000001
     },
     {
       "id": "CREX",
@@ -383,8 +409,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 3912.495766932605,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1259.7222222222224,
+      "biomass_precip_total_mm": 228.09200000000004
     },
     {
       "id": "CTLR",
@@ -406,8 +434,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 439.4691272785098,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1488.4999999999993,
+      "biomass_precip_total_mm": 458.4700000000001
     },
     {
       "id": "CVTZ",
@@ -429,8 +459,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 990.2696329367961,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1235.2222222222226,
+      "biomass_precip_total_mm": 381.254
     },
     {
       "id": "DEPR",
@@ -452,8 +484,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 624.3256205162817,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1373.0555555555559,
+      "biomass_precip_total_mm": 432.56200000000007
     },
     {
       "id": "DFRC",
@@ -475,8 +509,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2045.5183134823087,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1646.2222222222224,
+      "biomass_precip_total_mm": 371.0940000000001
     },
     {
       "id": "DLTN",
@@ -498,8 +534,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 3228.936655752987,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1788.555555555555,
+      "biomass_precip_total_mm": 335.28
     },
     {
       "id": "DRND",
@@ -521,8 +559,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2637.812204209435,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1574.4444444444434,
+      "biomass_precip_total_mm": 341.37600000000003
     },
     {
       "id": "DUDA",
@@ -544,8 +584,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 494.9512350294201,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1702.6666666666667,
+      "biomass_precip_total_mm": 461.51800000000003
     },
     {
       "id": "EGHA",
@@ -567,8 +609,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1174.4267851413776,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1210.6666666666679,
+      "biomass_precip_total_mm": 360.93399999999997
     },
     {
       "id": "FFEC",
@@ -590,8 +634,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1160.525855504119,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1428.4444444444443,
+      "biomass_precip_total_mm": 398.0180000000001
     },
     {
       "id": "FLMB",
@@ -613,8 +659,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1958.4431934578693,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1177.7777777777778,
+      "biomass_precip_total_mm": 296.16400000000004
     },
     {
       "id": "FRCD",
@@ -636,8 +684,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1826.1351810896024,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1452.1111111111118,
+      "biomass_precip_total_mm": 363.474
     },
     {
       "id": "GFTN",
@@ -659,8 +709,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 923.5324538664274,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1518.7777777777783,
+      "biomass_precip_total_mm": 421.38599999999997
     },
     {
       "id": "GLCP",
@@ -682,8 +734,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1185.6373353090466,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1782.5555555555547,
+      "biomass_precip_total_mm": 418.084
     },
     {
       "id": "GLSN",
@@ -705,8 +759,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 982.4508585836819,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1102.6111111111113,
+      "biomass_precip_total_mm": 347.4719999999998
     },
     {
       "id": "GMSH",
@@ -728,8 +784,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 459.37097148224507,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1521.6666666666663,
+      "biomass_precip_total_mm": 458.21600000000007
     },
     {
       "id": "GNWD",
@@ -751,8 +809,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 880.8065147427609,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1351.3888888888882,
+      "biomass_precip_total_mm": 408.68600000000015
     },
     {
       "id": "HDMK",
@@ -774,8 +834,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1091.640871579044,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1009.6111111111104,
+      "biomass_precip_total_mm": 298.4500000000001
     },
     {
       "id": "HNCK",
@@ -797,8 +859,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1228.0993657334361,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1466.9444444444448,
+      "biomass_precip_total_mm": 397.76400000000007
     },
     {
       "id": "HNTR",
@@ -820,8 +884,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1784.796355130967,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1151.3888888888887,
+      "biomass_precip_total_mm": 298.19600000000014
     },
     {
       "id": "HRVR",
@@ -843,8 +909,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2767.944716402311,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1388.6666666666667,
+      "biomass_precip_total_mm": 310.38800000000003
     },
     {
       "id": "IOLA",
@@ -866,8 +934,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 778.9748695914064,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1351.0,
+      "biomass_precip_total_mm": 416.8140000000001
     },
     {
       "id": "KEMP",
@@ -889,8 +959,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 591.3924858575109,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1054.1666666666667,
+      "biomass_precip_total_mm": 378.4600000000001
     },
     {
       "id": "KNGT",
@@ -912,8 +984,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 844.7451106705046,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 956.2222222222222,
+      "biomass_precip_total_mm": 303.02200000000005
     },
     {
       "id": "KSKM",
@@ -935,8 +1009,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 937.2754819113001,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1517.4444444444448,
+      "biomass_precip_total_mm": 420.36999999999995
     },
     {
       "id": "KWNE",
@@ -958,8 +1034,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 758.0112283022455,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1287.0555555555552,
+      "biomass_precip_total_mm": 410.21
     },
     {
       "id": "LAFG",
@@ -981,8 +1059,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 368.74943613698326,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1494.2777777777787,
+      "biomass_precip_total_mm": 466.08999999999986
     },
     {
       "id": "LNCT",
@@ -1004,8 +1084,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 738.3285403198116,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1741.6666666666665,
+      "biomass_precip_total_mm": 443.99199999999996
     },
     {
       "id": "LOLK",
@@ -1027,8 +1109,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1496.8274398957756,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1609.7777777777776,
+      "biomass_precip_total_mm": 394.208
     },
     {
       "id": "LXBG",
@@ -1050,8 +1134,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 615.2268972498229,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1317.722222222222,
+      "biomass_precip_total_mm": 427.482
     },
     {
       "id": "MAPL",
@@ -1073,8 +1159,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2016.0544511000494,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1057.277777777778,
+      "biomass_precip_total_mm": 238.50599999999997
     },
     {
       "id": "MNDR",
@@ -1096,8 +1184,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1285.3376497681938,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1570.2777777777778,
+      "biomass_precip_total_mm": 402.844
     },
     {
       "id": "MNTN",
@@ -1119,8 +1209,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 493.93443366886214,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1520.3888888888887,
+      "biomass_precip_total_mm": 454.91400000000004
     },
     {
       "id": "MNWT",
@@ -1142,8 +1234,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1838.1295129618395,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1063.2777777777774,
+      "biomass_precip_total_mm": 255.52399999999997
     },
     {
       "id": "MRFD",
@@ -1165,8 +1259,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 689.8547521025287,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1300.8888888888885,
+      "biomass_precip_total_mm": 418.3379999999999
     },
     {
       "id": "MTLO",
@@ -1188,8 +1284,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1873.6956212775412,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1491.7777777777767,
+      "biomass_precip_total_mm": 365.7600000000001
     },
     {
       "id": "NASE",
@@ -1211,8 +1309,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 796.2796801813062,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1284.2222222222215,
+      "biomass_precip_total_mm": 406.4000000000001
     },
     {
       "id": "NBLN",
@@ -1234,8 +1334,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 237.04823080006193,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1713.2222222222213,
+      "biomass_precip_total_mm": 487.67999999999995
     },
     {
       "id": "OJNR",
@@ -1257,8 +1359,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2011.7205797519944,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1620.833333333333,
+      "biomass_precip_total_mm": 370.84000000000015
     },
     {
       "id": "OSEO",
@@ -1280,8 +1384,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1740.670595743315,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1480.7777777777776,
+      "biomass_precip_total_mm": 371.09400000000005
     },
     {
       "id": "PARS",
@@ -1303,8 +1409,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 713.3389210638135,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1268.1111111111109,
+      "biomass_precip_total_mm": 411.48
     },
     {
       "id": "PLYM",
@@ -1326,8 +1434,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 910.7602987164744,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1455.1111111111104,
+      "biomass_precip_total_mm": 417.32200000000006
     },
     {
       "id": "RCHD",
@@ -1349,8 +1459,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 535.2330541316771,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1596.3333333333328,
+      "biomass_precip_total_mm": 454.65999999999997
     },
     {
       "id": "RIPN",
@@ -1372,8 +1484,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 977.6464979864418,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1495.3888888888882,
+      "biomass_precip_total_mm": 416.05199999999996
     },
     {
       "id": "RLKE",
@@ -1395,8 +1509,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2972.0988088069566,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1301.8888888888894,
+      "biomass_precip_total_mm": 281.43199999999996
     },
     {
       "id": "RNLD",
@@ -1418,8 +1534,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2132.421303265133,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1076.388888888889,
+      "biomass_precip_total_mm": 240.28400000000002
     },
     {
       "id": "RTHR",
@@ -1441,8 +1559,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 3138.8171844402336,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1347.611111111111,
+      "biomass_precip_total_mm": 286.0040000000001
     },
     {
       "id": "SHGD",
@@ -1464,8 +1584,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1257.7681892101682,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1065.944444444445,
+      "biomass_precip_total_mm": 306.83200000000005
     },
     {
       "id": "SIBA",
@@ -1487,8 +1609,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 232.62473331761612,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1168.9444444444441,
+      "biomass_precip_total_mm": 458.7240000000001
     },
     {
       "id": "SMKE",
@@ -1510,8 +1634,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 424.51127794157645,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1707.6111111111113,
+      "biomass_precip_total_mm": 467.8680000000002
     },
     {
       "id": "SODO",
@@ -1533,8 +1659,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 287.4378413427613,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1272.7777777777778,
+      "biomass_precip_total_mm": 461.01
     },
     {
       "id": "SPNR",
@@ -1556,8 +1684,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2995.153292585543,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1310.3333333333337,
+      "biomass_precip_total_mm": 282.702
     },
     {
       "id": "SRNG",
@@ -1579,8 +1709,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 685.5399921891928,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1254.1666666666665,
+      "biomass_precip_total_mm": 411.988
     },
     {
       "id": "STAR",
@@ -1602,8 +1734,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 486.2368515462086,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1666.1666666666672,
+      "biomass_precip_total_mm": 461.264
     },
     {
       "id": "TCDA",
@@ -1625,8 +1759,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 982.4037057494414,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1628.4444444444443,
+      "biomass_precip_total_mm": 423.926
     },
     {
       "id": "UGRV",
@@ -1648,8 +1784,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 180.17611932880658,
+      "biomass_class": "Low",
+      "biomass_gdd_total": 1707.1111111111109,
+      "biomass_precip_total_mm": 495.0460000000001
     },
     {
       "id": "UWRF",
@@ -1671,8 +1809,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 3560.6710665280802,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1485.7777777777776,
+      "biomass_precip_total_mm": 296.67199999999997
     },
     {
       "id": "VLDR",
@@ -1694,8 +1834,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 2238.397048566226,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1371.1111111111113,
+      "biomass_precip_total_mm": 330.96200000000016
     },
     {
       "id": "WBRO",
@@ -1717,8 +1859,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1493.9640378485485,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1218.333333333333,
+      "biomass_precip_total_mm": 339.34400000000005
     },
     {
       "id": "WCRS",
@@ -1740,8 +1884,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 884.7959440999949,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1400.722222222222,
+      "biomass_precip_total_mm": 414.02
     },
     {
       "id": "WDVL",
@@ -1763,8 +1909,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 3167.3026504211525,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1335.8333333333333,
+      "biomass_precip_total_mm": 281.93999999999994
     },
     {
       "id": "WJPT",
@@ -1786,8 +1934,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 928.4985163019766,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1274.833333333333,
+      "biomass_precip_total_mm": 393.70000000000005
     },
     {
       "id": "WKSN",
@@ -1809,8 +1959,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1784.2808795153085,
+      "biomass_class": "High",
+      "biomass_gdd_total": 1185.6666666666667,
+      "biomass_precip_total_mm": 310.13400000000007
     },
     {
       "id": "WRNS",
@@ -1832,8 +1984,10 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 1025.5516737744301,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1506.3888888888885,
+      "biomass_precip_total_mm": 413.76600000000025
     },
     {
       "id": "WTBG",
@@ -1855,12 +2009,14 @@
       "whitemold_irr_30in_class": "Inactive",
       "whitemold_irr_15in_risk": -1.0,
       "whitemold_irr_15in_class": "Inactive",
-      "biomass": null,
-      "biomass_class": "Unknown"
+      "biomass": 620.5327438839444,
+      "biomass_class": "Moderate",
+      "biomass_gdd_total": 1221.222222222222,
+      "biomass_precip_total_mm": 413.25800000000004
     }
   ],
   "forecasts": {
-    "2026-05-24": [
+    "2026-05-25": [
       {
         "id": "ALTN",
         "name": "Arlington",
@@ -1881,8 +2037,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1307.2944041891574,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1534.666666666666,
+        "biomass_precip_total_mm": 399.03400000000005
       },
       {
         "id": "ANGO",
@@ -1904,8 +2062,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1361.4686669936252,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1141.000000000001,
+        "biomass_precip_total_mm": 326.13599999999997
       },
       {
         "id": "BBCK",
@@ -1927,8 +2087,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1364.6998095675428,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1437.5555555555552,
+        "biomass_precip_total_mm": 386.58799999999997
       },
       {
         "id": "BCVL",
@@ -1950,8 +2112,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2445.988297606544,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1741.444444444445,
+        "biomass_precip_total_mm": 360.42599999999993
       },
       {
         "id": "BGHM",
@@ -1973,8 +2137,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2427.0679756126947,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1704.0555555555563,
+        "biomass_precip_total_mm": 359.15599999999995
       },
       {
         "id": "BKLN",
@@ -1996,8 +2162,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1338.454974501731,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1492.3888888888887,
+        "biomass_precip_total_mm": 393.70000000000016
       },
       {
         "id": "BLCR",
@@ -2019,8 +2187,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 56.424142778904134,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1340.333333333333,
+        "biomass_precip_total_mm": 510.794
       },
       {
         "id": "BRLN",
@@ -2042,8 +2212,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1866.0475374853115,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1405.3888888888885,
+        "biomass_precip_total_mm": 355.09200000000016
       },
       {
         "id": "BSTL",
@@ -2065,8 +2237,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 53.291094924550855,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1765.3888888888885,
+        "biomass_precip_total_mm": 518.668
       },
       {
         "id": "BYFD",
@@ -2088,8 +2262,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2428.460331435707,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1069.6666666666667,
+        "biomass_precip_total_mm": 215.90000000000003
       },
       {
         "id": "CLLK",
@@ -2111,8 +2287,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1708.191408876221,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1364.9444444444448,
+        "biomass_precip_total_mm": 357.1239999999999
       },
       {
         "id": "CNDN",
@@ -2134,8 +2312,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1905.4864500981084,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1049.9999999999998,
+        "biomass_precip_total_mm": 243.07799999999995
       },
       {
         "id": "COSP",
@@ -2157,8 +2337,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1084.5940046249254,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1699.4444444444443,
+        "biomass_precip_total_mm": 420.8780000000001
       },
       {
         "id": "CREX",
@@ -2180,8 +2362,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 3912.495766932605,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1259.7222222222224,
+        "biomass_precip_total_mm": 228.09200000000004
       },
       {
         "id": "CTLR",
@@ -2203,8 +2387,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 439.4691272785098,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1488.4999999999993,
+        "biomass_precip_total_mm": 458.4700000000001
       },
       {
         "id": "CVTZ",
@@ -2226,8 +2412,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 990.2696329367961,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1235.2222222222226,
+        "biomass_precip_total_mm": 381.254
       },
       {
         "id": "DEPR",
@@ -2249,8 +2437,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 624.3256205162817,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1373.0555555555559,
+        "biomass_precip_total_mm": 432.56200000000007
       },
       {
         "id": "DFRC",
@@ -2272,8 +2462,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2045.5183134823087,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1646.2222222222224,
+        "biomass_precip_total_mm": 371.0940000000001
       },
       {
         "id": "DLTN",
@@ -2295,8 +2487,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 3228.936655752987,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1788.555555555555,
+        "biomass_precip_total_mm": 335.28
       },
       {
         "id": "DRND",
@@ -2318,8 +2512,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2637.812204209435,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1574.4444444444434,
+        "biomass_precip_total_mm": 341.37600000000003
       },
       {
         "id": "DUDA",
@@ -2341,8 +2537,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 494.9512350294201,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1702.6666666666667,
+        "biomass_precip_total_mm": 461.51800000000003
       },
       {
         "id": "EGHA",
@@ -2364,8 +2562,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1174.4267851413776,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1210.6666666666679,
+        "biomass_precip_total_mm": 360.93399999999997
       },
       {
         "id": "FFEC",
@@ -2387,8 +2587,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1160.525855504119,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1428.4444444444443,
+        "biomass_precip_total_mm": 398.0180000000001
       },
       {
         "id": "FLMB",
@@ -2410,8 +2612,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1958.4431934578693,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1177.7777777777778,
+        "biomass_precip_total_mm": 296.16400000000004
       },
       {
         "id": "FRCD",
@@ -2433,8 +2637,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1826.1351810896024,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1452.1111111111118,
+        "biomass_precip_total_mm": 363.474
       },
       {
         "id": "GFTN",
@@ -2456,8 +2662,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 923.5324538664274,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1518.7777777777783,
+        "biomass_precip_total_mm": 421.38599999999997
       },
       {
         "id": "GLCP",
@@ -2479,8 +2687,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1185.6373353090466,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1782.5555555555547,
+        "biomass_precip_total_mm": 418.084
       },
       {
         "id": "GLSN",
@@ -2502,8 +2712,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 982.4508585836819,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1102.6111111111113,
+        "biomass_precip_total_mm": 347.4719999999998
       },
       {
         "id": "GMSH",
@@ -2525,8 +2737,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 459.37097148224507,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1521.6666666666663,
+        "biomass_precip_total_mm": 458.21600000000007
       },
       {
         "id": "GNWD",
@@ -2548,8 +2762,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 880.8065147427609,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1351.3888888888882,
+        "biomass_precip_total_mm": 408.68600000000015
       },
       {
         "id": "HDMK",
@@ -2571,8 +2787,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1091.640871579044,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1009.6111111111104,
+        "biomass_precip_total_mm": 298.4500000000001
       },
       {
         "id": "HNCK",
@@ -2594,8 +2812,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1228.0993657334361,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1466.9444444444448,
+        "biomass_precip_total_mm": 397.76400000000007
       },
       {
         "id": "HNTR",
@@ -2617,8 +2837,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1784.796355130967,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1151.3888888888887,
+        "biomass_precip_total_mm": 298.19600000000014
       },
       {
         "id": "HRVR",
@@ -2640,8 +2862,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2767.944716402311,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1388.6666666666667,
+        "biomass_precip_total_mm": 310.38800000000003
       },
       {
         "id": "IOLA",
@@ -2663,8 +2887,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 778.9748695914064,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1351.0,
+        "biomass_precip_total_mm": 416.8140000000001
       },
       {
         "id": "KEMP",
@@ -2686,8 +2912,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 591.3924858575109,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1054.1666666666667,
+        "biomass_precip_total_mm": 378.4600000000001
       },
       {
         "id": "KNGT",
@@ -2709,8 +2937,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 844.7451106705046,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 956.2222222222222,
+        "biomass_precip_total_mm": 303.02200000000005
       },
       {
         "id": "KSKM",
@@ -2732,8 +2962,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 937.2754819113001,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1517.4444444444448,
+        "biomass_precip_total_mm": 420.36999999999995
       },
       {
         "id": "KWNE",
@@ -2755,8 +2987,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 758.0112283022455,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1287.0555555555552,
+        "biomass_precip_total_mm": 410.21
       },
       {
         "id": "LAFG",
@@ -2778,8 +3012,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 368.74943613698326,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1494.2777777777787,
+        "biomass_precip_total_mm": 466.08999999999986
       },
       {
         "id": "LNCT",
@@ -2801,8 +3037,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 738.3285403198116,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1741.6666666666665,
+        "biomass_precip_total_mm": 443.99199999999996
       },
       {
         "id": "LOLK",
@@ -2824,8 +3062,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1496.8274398957756,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1609.7777777777776,
+        "biomass_precip_total_mm": 394.208
       },
       {
         "id": "LXBG",
@@ -2847,8 +3087,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 615.2268972498229,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1317.722222222222,
+        "biomass_precip_total_mm": 427.482
       },
       {
         "id": "MAPL",
@@ -2870,8 +3112,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2016.0544511000494,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1057.277777777778,
+        "biomass_precip_total_mm": 238.50599999999997
       },
       {
         "id": "MNDR",
@@ -2893,8 +3137,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1285.3376497681938,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1570.2777777777778,
+        "biomass_precip_total_mm": 402.844
       },
       {
         "id": "MNTN",
@@ -2916,8 +3162,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 493.93443366886214,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1520.3888888888887,
+        "biomass_precip_total_mm": 454.91400000000004
       },
       {
         "id": "MNWT",
@@ -2939,8 +3187,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1838.1295129618395,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1063.2777777777774,
+        "biomass_precip_total_mm": 255.52399999999997
       },
       {
         "id": "MRFD",
@@ -2962,8 +3212,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 689.8547521025287,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1300.8888888888885,
+        "biomass_precip_total_mm": 418.3379999999999
       },
       {
         "id": "MTLO",
@@ -2985,8 +3237,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1873.6956212775412,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1491.7777777777767,
+        "biomass_precip_total_mm": 365.7600000000001
       },
       {
         "id": "NASE",
@@ -3008,8 +3262,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 796.2796801813062,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1284.2222222222215,
+        "biomass_precip_total_mm": 406.4000000000001
       },
       {
         "id": "NBLN",
@@ -3031,8 +3287,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 237.04823080006193,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1713.2222222222213,
+        "biomass_precip_total_mm": 487.67999999999995
       },
       {
         "id": "OJNR",
@@ -3054,8 +3312,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2011.7205797519944,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1620.833333333333,
+        "biomass_precip_total_mm": 370.84000000000015
       },
       {
         "id": "OSEO",
@@ -3077,8 +3337,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1740.670595743315,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1480.7777777777776,
+        "biomass_precip_total_mm": 371.09400000000005
       },
       {
         "id": "PARS",
@@ -3100,8 +3362,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 713.3389210638135,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1268.1111111111109,
+        "biomass_precip_total_mm": 411.48
       },
       {
         "id": "PLYM",
@@ -3123,8 +3387,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 910.7602987164744,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1455.1111111111104,
+        "biomass_precip_total_mm": 417.32200000000006
       },
       {
         "id": "RCHD",
@@ -3146,8 +3412,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 535.2330541316771,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1596.3333333333328,
+        "biomass_precip_total_mm": 454.65999999999997
       },
       {
         "id": "RIPN",
@@ -3169,8 +3437,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 977.6464979864418,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1495.3888888888882,
+        "biomass_precip_total_mm": 416.05199999999996
       },
       {
         "id": "RLKE",
@@ -3192,8 +3462,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2972.0988088069566,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1301.8888888888894,
+        "biomass_precip_total_mm": 281.43199999999996
       },
       {
         "id": "RNLD",
@@ -3215,8 +3487,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2132.421303265133,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1076.388888888889,
+        "biomass_precip_total_mm": 240.28400000000002
       },
       {
         "id": "RTHR",
@@ -3238,8 +3512,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 3138.8171844402336,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1347.611111111111,
+        "biomass_precip_total_mm": 286.0040000000001
       },
       {
         "id": "SHGD",
@@ -3261,8 +3537,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1257.7681892101682,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1065.944444444445,
+        "biomass_precip_total_mm": 306.83200000000005
       },
       {
         "id": "SIBA",
@@ -3284,8 +3562,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 232.62473331761612,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1168.9444444444441,
+        "biomass_precip_total_mm": 458.7240000000001
       },
       {
         "id": "SMKE",
@@ -3307,8 +3587,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 424.51127794157645,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1707.6111111111113,
+        "biomass_precip_total_mm": 467.8680000000002
       },
       {
         "id": "SODO",
@@ -3330,8 +3612,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 287.4378413427613,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1272.7777777777778,
+        "biomass_precip_total_mm": 461.01
       },
       {
         "id": "SPNR",
@@ -3353,8 +3637,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2995.153292585543,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1310.3333333333337,
+        "biomass_precip_total_mm": 282.702
       },
       {
         "id": "SRNG",
@@ -3376,8 +3662,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 685.5399921891928,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1254.1666666666665,
+        "biomass_precip_total_mm": 411.988
       },
       {
         "id": "STAR",
@@ -3399,8 +3687,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 486.2368515462086,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1666.1666666666672,
+        "biomass_precip_total_mm": 461.264
       },
       {
         "id": "TCDA",
@@ -3422,8 +3712,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 982.4037057494414,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1628.4444444444443,
+        "biomass_precip_total_mm": 423.926
       },
       {
         "id": "UGRV",
@@ -3445,8 +3737,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 180.17611932880658,
+        "biomass_class": "Low",
+        "biomass_gdd_total": 1707.1111111111109,
+        "biomass_precip_total_mm": 495.0460000000001
       },
       {
         "id": "UWRF",
@@ -3468,8 +3762,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 3560.6710665280802,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1485.7777777777776,
+        "biomass_precip_total_mm": 296.67199999999997
       },
       {
         "id": "VLDR",
@@ -3491,8 +3787,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 2238.397048566226,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1371.1111111111113,
+        "biomass_precip_total_mm": 330.96200000000016
       },
       {
         "id": "WBRO",
@@ -3514,8 +3812,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1493.9640378485485,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1218.333333333333,
+        "biomass_precip_total_mm": 339.34400000000005
       },
       {
         "id": "WCRS",
@@ -3537,8 +3837,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 884.7959440999949,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1400.722222222222,
+        "biomass_precip_total_mm": 414.02
       },
       {
         "id": "WDVL",
@@ -3560,8 +3862,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 3167.3026504211525,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1335.8333333333333,
+        "biomass_precip_total_mm": 281.93999999999994
       },
       {
         "id": "WJPT",
@@ -3583,8 +3887,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 928.4985163019766,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1274.833333333333,
+        "biomass_precip_total_mm": 393.70000000000005
       },
       {
         "id": "WKSN",
@@ -3606,8 +3912,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1784.2808795153085,
+        "biomass_class": "High",
+        "biomass_gdd_total": 1185.6666666666667,
+        "biomass_precip_total_mm": 310.13400000000007
       },
       {
         "id": "WRNS",
@@ -3629,8 +3937,10 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 1025.5516737744301,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1506.3888888888885,
+        "biomass_precip_total_mm": 413.76600000000025
       },
       {
         "id": "WTBG",
@@ -3652,8 +3962,1650 @@
         "whitemold_irr_30in_class": "Inactive",
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive",
-        "biomass": null,
-        "biomass_class": "Unknown"
+        "biomass": 620.5327438839444,
+        "biomass_class": "Moderate",
+        "biomass_gdd_total": 1221.222222222222,
+        "biomass_precip_total_mm": 413.25800000000004
+      }
+    ],
+    "2026-05-24": [
+      {
+        "id": "ALTN",
+        "name": "Arlington",
+        "lat": 43.2966,
+        "lon": -89.3843,
+        "city": "Arlington",
+        "county": "Columbia County",
+        "region": "South Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "ANGO",
+        "name": "Antigo",
+        "lat": 45.158901,
+        "lon": -89.117798,
+        "city": "Antigo",
+        "county": "Langlade",
+        "region": "Northeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "BBCK",
+        "name": "Babcock",
+        "lat": 44.253799,
+        "lon": -90.268997,
+        "city": "Babcock",
+        "county": "Wood",
+        "region": "Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "BCVL",
+        "name": "Blanchardville",
+        "lat": 42.85215,
+        "lon": -89.754089,
+        "city": "Blanchardville",
+        "county": "Green",
+        "region": "South Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "BGHM",
+        "name": "Brigham",
+        "lat": 43.002998,
+        "lon": -89.848503,
+        "city": "Brigham",
+        "county": "Iowa",
+        "region": "Southwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "BKLN",
+        "name": "Brooklyn",
+        "lat": 43.838001,
+        "lon": -89.030403,
+        "city": "Brooklyn",
+        "county": "Green Lake",
+        "region": "Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "BLCR",
+        "name": "Black Creek",
+        "lat": 44.481499,
+        "lon": -88.405899,
+        "city": "Black Creek",
+        "county": "Outagamie",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "BRLN",
+        "name": "Brillion",
+        "lat": 44.104,
+        "lon": -88.051003,
+        "city": "Brillion",
+        "county": "Calumet",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "BSTL",
+        "name": "Bristol",
+        "lat": 42.570999,
+        "lon": -88.044998,
+        "city": "Bristol",
+        "county": "Kenosha",
+        "region": "Southeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "BYFD",
+        "name": "Bayfield",
+        "lat": 46.8395,
+        "lon": -91.013603,
+        "city": "Bayfield",
+        "county": "Bayfield",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "CLLK",
+        "name": "Clear Lake",
+        "lat": 45.285801,
+        "lon": -92.321297,
+        "city": "Clear Lake",
+        "county": "Polk",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "CNDN",
+        "name": "Crandon",
+        "lat": 45.522598,
+        "lon": -88.923897,
+        "city": "Crandon",
+        "county": "Forest",
+        "region": "Northeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "COSP",
+        "name": "Cold Spring",
+        "lat": 42.898701,
+        "lon": -88.737198,
+        "city": "Cold Spring",
+        "county": "Jefferson",
+        "region": "South Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "CREX",
+        "name": "Grantsburg",
+        "lat": 45.884548,
+        "lon": -92.609062,
+        "city": "Grantsburg",
+        "county": "Burnett",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "CTLR",
+        "name": "Cutler",
+        "lat": 44.026001,
+        "lon": -90.255997,
+        "city": "Camp Douglas",
+        "county": "Juneau",
+        "region": "Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "CVTZ",
+        "name": "Crivitz",
+        "lat": 45.16864,
+        "lon": -87.997787,
+        "city": "Crivitz",
+        "county": "Marinette",
+        "region": "Northeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "DEPR",
+        "name": "De Pere",
+        "lat": 44.327999,
+        "lon": -87.966003,
+        "city": "De Pere",
+        "county": "Brown",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "DFRC",
+        "name": "Prairie du Sac",
+        "lat": 43.344799,
+        "lon": -89.7117,
+        "city": "Prairie du Sac",
+        "county": "Sauk",
+        "region": "Southwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "DLTN",
+        "name": "Darlington",
+        "lat": 42.649902,
+        "lon": -90.289154,
+        "city": "Darlington",
+        "county": "Lafayette",
+        "region": "Southwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "DRND",
+        "name": "Durand",
+        "lat": 44.627586,
+        "lon": -91.939346,
+        "city": "Durand",
+        "county": "Pepin",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "DUDA",
+        "name": "Walworth",
+        "lat": 42.527,
+        "lon": -88.639999,
+        "city": "Walworth",
+        "county": "Walworth",
+        "region": "Southeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "EGHA",
+        "name": "Egg Harbor",
+        "lat": 45.0509,
+        "lon": -87.259804,
+        "city": "Egg Harbor",
+        "county": "Door",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "FFEC",
+        "name": "Plover",
+        "lat": 44.446098,
+        "lon": -89.520699,
+        "city": "Plover",
+        "county": "Portage",
+        "region": "Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "FLMB",
+        "name": "Flambeau",
+        "lat": 45.775398,
+        "lon": -90.643097,
+        "city": "Flambeau",
+        "county": "Price",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "FRCD",
+        "name": "Fairchild",
+        "lat": 44.609001,
+        "lon": -91.0,
+        "city": "Fairchild",
+        "county": "Eau Claire",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "GFTN",
+        "name": "Grafton",
+        "lat": 43.2981,
+        "lon": -87.932098,
+        "city": "Grafton",
+        "county": "Ozaukee",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "GLCP",
+        "name": "Porter",
+        "lat": 42.789001,
+        "lon": -89.172997,
+        "city": "Porter",
+        "county": "Rock",
+        "region": "Southern",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "GLSN",
+        "name": "Gleason",
+        "lat": 45.302132,
+        "lon": -89.50415,
+        "city": "Gleason",
+        "county": "Lincoln",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "GMSH",
+        "name": "Grand Marsh",
+        "lat": 43.854332,
+        "lon": -89.777641,
+        "city": "Grand Marsh",
+        "county": "Adams",
+        "region": "Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "GNWD",
+        "name": "Greenwood",
+        "lat": 44.717999,
+        "lon": -90.596603,
+        "city": "Greenwood",
+        "county": "Clark",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "HDMK",
+        "name": "Fence",
+        "lat": 45.755638,
+        "lon": -88.563454,
+        "city": "Fence",
+        "county": "Florence",
+        "region": "Northeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "HNCK",
+        "name": "Hancock",
+        "lat": 44.118801,
+        "lon": -89.533302,
+        "city": "Hancock",
+        "county": "Waushara County",
+        "region": "Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "HNTR",
+        "name": "Hunter",
+        "lat": 45.946201,
+        "lon": -91.094704,
+        "city": "Hunter",
+        "county": "Sawyer",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "HRVR",
+        "name": "Hay River",
+        "lat": 45.084621,
+        "lon": -91.919167,
+        "city": "Hay River",
+        "county": "Dunn",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "IOLA",
+        "name": "Iola",
+        "lat": 44.504025,
+        "lon": -89.024918,
+        "city": "Iola",
+        "county": "Waupaca",
+        "region": "Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "KEMP",
+        "name": "Woodruff",
+        "lat": 45.841,
+        "lon": -89.667801,
+        "city": "Woodruff",
+        "county": "Oneida County",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "KNGT",
+        "name": "Knight",
+        "lat": 46.289001,
+        "lon": -90.435997,
+        "city": "Knight",
+        "county": "Iron",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "KSKM",
+        "name": "Kewaskum",
+        "lat": 43.535099,
+        "lon": -88.252701,
+        "city": "Kewaskum",
+        "county": "Washington",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "KWNE",
+        "name": "Kewaunee",
+        "lat": 44.401798,
+        "lon": -87.664597,
+        "city": "Kewaunee",
+        "county": "Kewaunee",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "LAFG",
+        "name": "La Farge",
+        "lat": 43.597,
+        "lon": -90.625999,
+        "city": "La Farge",
+        "county": "Vernon",
+        "region": "Western",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "LNCT",
+        "name": "Lancaster",
+        "lat": 42.830002,
+        "lon": -90.7882,
+        "city": "Lancaster",
+        "county": "Grant County",
+        "region": "Southwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "LOLK",
+        "name": "Lost Lake",
+        "lat": 43.451145,
+        "lon": -88.977783,
+        "city": "Lost Lake",
+        "county": "Dodge",
+        "region": "South Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "LXBG",
+        "name": "Luxemburg",
+        "lat": 44.556,
+        "lon": -87.654297,
+        "city": "Casco",
+        "county": "Kewaunee",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "MAPL",
+        "name": "Maple",
+        "lat": 46.632702,
+        "lon": -91.681198,
+        "city": "Maple",
+        "county": "Douglas",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "MNDR",
+        "name": "Mindoro",
+        "lat": 44.030289,
+        "lon": -90.934776,
+        "city": "Mindoro",
+        "county": "La Crosse",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "MNTN",
+        "name": "Montana",
+        "lat": 44.401226,
+        "lon": -91.559906,
+        "city": "Montana",
+        "county": "Buffalo",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "MNWT",
+        "name": "Manitowish Waters",
+        "lat": 46.076,
+        "lon": -89.838303,
+        "city": "Manitowish Waters",
+        "county": "Vilas",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "MRFD",
+        "name": "Marshfield",
+        "lat": 44.7603,
+        "lon": -90.097801,
+        "city": "Marshfield",
+        "county": "Marathon County",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "MTLO",
+        "name": "Montello",
+        "lat": 43.853901,
+        "lon": -89.283798,
+        "city": "Montello",
+        "county": "Marquette",
+        "region": "Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "NASE",
+        "name": "Nasewaupee",
+        "lat": 44.789398,
+        "lon": -87.4561,
+        "city": "Nasewaupee",
+        "county": "Door",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "NBLN",
+        "name": "New Berlin",
+        "lat": 42.976002,
+        "lon": -88.120003,
+        "city": "New Berlin",
+        "county": "Waukesha",
+        "region": "Southeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "OJNR",
+        "name": "Verona",
+        "lat": 43.025002,
+        "lon": -89.536697,
+        "city": "Verona",
+        "county": "Dane",
+        "region": "South Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "OSEO",
+        "name": "Osseo",
+        "lat": 44.59,
+        "lon": -91.265999,
+        "city": "Osseo",
+        "county": "Trempealeau",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "PARS",
+        "name": "Sturgeon Bay",
+        "lat": 44.880199,
+        "lon": -87.329597,
+        "city": "Sturgeon Bay",
+        "county": "Door",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "PLYM",
+        "name": "Plymouth",
+        "lat": 43.777199,
+        "lon": -87.9515,
+        "city": "Plymouth",
+        "county": "Sheboygan",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "RCHD",
+        "name": "Richland Center",
+        "lat": 43.369999,
+        "lon": -90.383003,
+        "city": "Richland Center",
+        "county": "Richland",
+        "region": "Southern",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "RIPN",
+        "name": "Ripon",
+        "lat": 43.905602,
+        "lon": -88.846703,
+        "city": "Ripon",
+        "county": "Winnebago",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "RLKE",
+        "name": "Rice Lake",
+        "lat": 45.523331,
+        "lon": -91.844292,
+        "city": "Rice Lake",
+        "county": "Barron",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "RNLD",
+        "name": "Rhinelander",
+        "lat": 45.654598,
+        "lon": -89.268204,
+        "city": "Rhinelander",
+        "county": "Oneida County",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "RTHR",
+        "name": "Arthur",
+        "lat": 45.032001,
+        "lon": -91.199997,
+        "city": "Arthur",
+        "county": "Chippewa",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "SHGD",
+        "name": "Shanagolden",
+        "lat": 46.10701,
+        "lon": -90.80793,
+        "city": "Shanagolden",
+        "county": "Ashland",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "SIBA",
+        "name": "Sister Bay",
+        "lat": 45.219101,
+        "lon": -87.0662,
+        "city": "Sister Bay",
+        "county": "Door",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "SMKE",
+        "name": "South Milwaukee",
+        "lat": 42.901299,
+        "lon": -87.851196,
+        "city": "South Milwaukee",
+        "county": "Milwaukee",
+        "region": "Southeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "SODO",
+        "name": "Southern Door",
+        "lat": 44.778999,
+        "lon": -87.355598,
+        "city": "Sturgeon Bay",
+        "county": "Door",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "SPNR",
+        "name": "Spooner",
+        "lat": 45.827,
+        "lon": -91.861397,
+        "city": "Spooner",
+        "county": "Washburn County",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "SRNG",
+        "name": "Suring",
+        "lat": 44.999001,
+        "lon": -88.342697,
+        "city": "Suring",
+        "county": "Oconto",
+        "region": "Northeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "STAR",
+        "name": "Soldiers Grove",
+        "lat": 43.378399,
+        "lon": -90.900002,
+        "city": "Soldiers Grove",
+        "county": "Crawford",
+        "region": "Southwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "TCDA",
+        "name": "Taycheedah",
+        "lat": 43.84317,
+        "lon": -88.370872,
+        "city": "Taycheedah",
+        "county": "Fond du Lac",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "UGRV",
+        "name": "Yorkville",
+        "lat": 42.7281,
+        "lon": -88.028,
+        "city": "Union Grove",
+        "county": "Racine",
+        "region": "Southeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "UWRF",
+        "name": "River Falls",
+        "lat": 44.842499,
+        "lon": -92.6129,
+        "city": "River Falls",
+        "county": "Pierce",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "VLDR",
+        "name": "Valders",
+        "lat": 44.004398,
+        "lon": -87.8228,
+        "city": "Valders",
+        "county": "Manitowoc",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "WBRO",
+        "name": "Westboro",
+        "lat": 45.31929,
+        "lon": -90.355469,
+        "city": "westboro",
+        "county": "Taylor",
+        "region": "North Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "WCRS",
+        "name": "Black River Falls",
+        "lat": 44.1852,
+        "lon": -90.742798,
+        "city": "Black River Falls",
+        "county": "Jackson",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "WDVL",
+        "name": "Woodville",
+        "lat": 44.943001,
+        "lon": -92.287003,
+        "city": "Woodville",
+        "county": "St. Croix",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "WJPT",
+        "name": "West Jacksonport",
+        "lat": 45.009998,
+        "lon": -87.233498,
+        "city": "West Jacksonport",
+        "county": "Door",
+        "region": "East Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "WKSN",
+        "name": "Wilkinson",
+        "lat": 45.508121,
+        "lon": -91.459503,
+        "city": "Wilkinson",
+        "county": "Rusk",
+        "region": "Northwest",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "WRNS",
+        "name": "Warrens",
+        "lat": 44.116699,
+        "lon": -90.412102,
+        "city": "Warrens",
+        "county": "Monroe",
+        "region": "West Central",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
+      },
+      {
+        "id": "WTBG",
+        "name": "Wittenberg",
+        "lat": 44.866001,
+        "lon": -89.023552,
+        "city": "Wittenberg",
+        "county": "Shawano",
+        "region": "Northeast",
+        "tarspot_risk": -1.0,
+        "tarspot_risk_class": "Inactive",
+        "gls_risk": -1.0,
+        "gls_risk_class": "Inactive",
+        "fe_risk": -1.0,
+        "fe_risk_class": "Inactive",
+        "whitemold_nirr_risk": -1.0,
+        "whitemold_nirr_risk_class": "Inactive",
+        "whitemold_irr_30in_risk": -1.0,
+        "whitemold_irr_30in_class": "Inactive",
+        "whitemold_irr_15in_risk": -1.0,
+        "whitemold_irr_15in_class": "Inactive"
       }
     ],
     "2026-05-23": [
@@ -11855,1656 +13807,16 @@
         "whitemold_irr_15in_risk": -1.0,
         "whitemold_irr_15in_class": "Inactive"
       }
-    ],
-    "2026-05-18": [
-      {
-        "id": "ALTN",
-        "name": "Arlington",
-        "lat": 43.2966,
-        "lon": -89.3843,
-        "city": "Arlington",
-        "county": "Columbia County",
-        "region": "South Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "ANGO",
-        "name": "Antigo",
-        "lat": 45.158901,
-        "lon": -89.117798,
-        "city": "Antigo",
-        "county": "Langlade",
-        "region": "Northeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "BBCK",
-        "name": "Babcock",
-        "lat": 44.253799,
-        "lon": -90.268997,
-        "city": "Babcock",
-        "county": "Wood",
-        "region": "Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "BCVL",
-        "name": "Blanchardville",
-        "lat": 42.85215,
-        "lon": -89.754089,
-        "city": "Blanchardville",
-        "county": "Green",
-        "region": "South Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "BGHM",
-        "name": "Brigham",
-        "lat": 43.002998,
-        "lon": -89.848503,
-        "city": "Brigham",
-        "county": "Iowa",
-        "region": "Southwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "BKLN",
-        "name": "Brooklyn",
-        "lat": 43.838001,
-        "lon": -89.030403,
-        "city": "Brooklyn",
-        "county": "Green Lake",
-        "region": "Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "BLCR",
-        "name": "Black Creek",
-        "lat": 44.481499,
-        "lon": -88.405899,
-        "city": "Black Creek",
-        "county": "Outagamie",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "BRLN",
-        "name": "Brillion",
-        "lat": 44.104,
-        "lon": -88.051003,
-        "city": "Brillion",
-        "county": "Calumet",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "BSTL",
-        "name": "Bristol",
-        "lat": 42.570999,
-        "lon": -88.044998,
-        "city": "Bristol",
-        "county": "Kenosha",
-        "region": "Southeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "BYFD",
-        "name": "Bayfield",
-        "lat": 46.8395,
-        "lon": -91.013603,
-        "city": "Bayfield",
-        "county": "Bayfield",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "CLLK",
-        "name": "Clear Lake",
-        "lat": 45.285801,
-        "lon": -92.321297,
-        "city": "Clear Lake",
-        "county": "Polk",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "CNDN",
-        "name": "Crandon",
-        "lat": 45.522598,
-        "lon": -88.923897,
-        "city": "Crandon",
-        "county": "Forest",
-        "region": "Northeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "COSP",
-        "name": "Cold Spring",
-        "lat": 42.898701,
-        "lon": -88.737198,
-        "city": "Cold Spring",
-        "county": "Jefferson",
-        "region": "South Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "CREX",
-        "name": "Grantsburg",
-        "lat": 45.884548,
-        "lon": -92.609062,
-        "city": "Grantsburg",
-        "county": "Burnett",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "CTLR",
-        "name": "Cutler",
-        "lat": 44.026001,
-        "lon": -90.255997,
-        "city": "Camp Douglas",
-        "county": "Juneau",
-        "region": "Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "CVTZ",
-        "name": "Crivitz",
-        "lat": 45.16864,
-        "lon": -87.997787,
-        "city": "Crivitz",
-        "county": "Marinette",
-        "region": "Northeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "DEPR",
-        "name": "De Pere",
-        "lat": 44.327999,
-        "lon": -87.966003,
-        "city": "De Pere",
-        "county": "Brown",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "DFRC",
-        "name": "Prairie du Sac",
-        "lat": 43.344799,
-        "lon": -89.7117,
-        "city": "Prairie du Sac",
-        "county": "Sauk",
-        "region": "Southwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "DLTN",
-        "name": "Darlington",
-        "lat": 42.649902,
-        "lon": -90.289154,
-        "city": "Darlington",
-        "county": "Lafayette",
-        "region": "Southwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "DRND",
-        "name": "Durand",
-        "lat": 44.627586,
-        "lon": -91.939346,
-        "city": "Durand",
-        "county": "Pepin",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "DUDA",
-        "name": "Walworth",
-        "lat": 42.527,
-        "lon": -88.639999,
-        "city": "Walworth",
-        "county": "Walworth",
-        "region": "Southeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "EGHA",
-        "name": "Egg Harbor",
-        "lat": 45.0509,
-        "lon": -87.259804,
-        "city": "Egg Harbor",
-        "county": "Door",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "FFEC",
-        "name": "Plover",
-        "lat": 44.446098,
-        "lon": -89.520699,
-        "city": "Plover",
-        "county": "Portage",
-        "region": "Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "FLMB",
-        "name": "Flambeau",
-        "lat": 45.775398,
-        "lon": -90.643097,
-        "city": "Flambeau",
-        "county": "Price",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "FRCD",
-        "name": "Fairchild",
-        "lat": 44.609001,
-        "lon": -91.0,
-        "city": "Fairchild",
-        "county": "Eau Claire",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "GFTN",
-        "name": "Grafton",
-        "lat": 43.2981,
-        "lon": -87.932098,
-        "city": "Grafton",
-        "county": "Ozaukee",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "GLCP",
-        "name": "Porter",
-        "lat": 42.789001,
-        "lon": -89.172997,
-        "city": "Porter",
-        "county": "Rock",
-        "region": "Southern",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "GLSN",
-        "name": "Gleason",
-        "lat": 45.302132,
-        "lon": -89.50415,
-        "city": "Gleason",
-        "county": "Lincoln",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "GMSH",
-        "name": "Grand Marsh",
-        "lat": 43.854332,
-        "lon": -89.777641,
-        "city": "Grand Marsh",
-        "county": "Adams",
-        "region": "Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "GNWD",
-        "name": "Greenwood",
-        "lat": 44.717999,
-        "lon": -90.596603,
-        "city": "Greenwood",
-        "county": "Clark",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "HDMK",
-        "name": "Fence",
-        "lat": 45.755638,
-        "lon": -88.563454,
-        "city": "Fence",
-        "county": "Florence",
-        "region": "Northeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "HNCK",
-        "name": "Hancock",
-        "lat": 44.118801,
-        "lon": -89.533302,
-        "city": "Hancock",
-        "county": "Waushara County",
-        "region": "Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "HNTR",
-        "name": "Hunter",
-        "lat": 45.946201,
-        "lon": -91.094704,
-        "city": "Hunter",
-        "county": "Sawyer",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "HRVR",
-        "name": "Hay River",
-        "lat": 45.084621,
-        "lon": -91.919167,
-        "city": "Hay River",
-        "county": "Dunn",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "IOLA",
-        "name": "Iola",
-        "lat": 44.504025,
-        "lon": -89.024918,
-        "city": "Iola",
-        "county": "Waupaca",
-        "region": "Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "KEMP",
-        "name": "Woodruff",
-        "lat": 45.841,
-        "lon": -89.667801,
-        "city": "Woodruff",
-        "county": "Oneida County",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "KNGT",
-        "name": "Knight",
-        "lat": 46.289001,
-        "lon": -90.435997,
-        "city": "Knight",
-        "county": "Iron",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "KSKM",
-        "name": "Kewaskum",
-        "lat": 43.535099,
-        "lon": -88.252701,
-        "city": "Kewaskum",
-        "county": "Washington",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "KWNE",
-        "name": "Kewaunee",
-        "lat": 44.401798,
-        "lon": -87.664597,
-        "city": "Kewaunee",
-        "county": "Kewaunee",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "LAFG",
-        "name": "La Farge",
-        "lat": 43.597,
-        "lon": -90.625999,
-        "city": "La Farge",
-        "county": "Vernon",
-        "region": "Western",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "LNCT",
-        "name": "Lancaster",
-        "lat": 42.830002,
-        "lon": -90.7882,
-        "city": "Lancaster",
-        "county": "Grant County",
-        "region": "Southwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "LOLK",
-        "name": "Lost Lake",
-        "lat": 43.451145,
-        "lon": -88.977783,
-        "city": "Lost Lake",
-        "county": "Dodge",
-        "region": "South Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "LXBG",
-        "name": "Luxemburg",
-        "lat": 44.556,
-        "lon": -87.654297,
-        "city": "Casco",
-        "county": "Kewaunee",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "MAPL",
-        "name": "Maple",
-        "lat": 46.632702,
-        "lon": -91.681198,
-        "city": "Maple",
-        "county": "Douglas",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "MNDR",
-        "name": "Mindoro",
-        "lat": 44.030289,
-        "lon": -90.934776,
-        "city": "Mindoro",
-        "county": "La Crosse",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "MNTN",
-        "name": "Montana",
-        "lat": 44.401226,
-        "lon": -91.559906,
-        "city": "Montana",
-        "county": "Buffalo",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "MNWT",
-        "name": "Manitowish Waters",
-        "lat": 46.076,
-        "lon": -89.838303,
-        "city": "Manitowish Waters",
-        "county": "Vilas",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "MRFD",
-        "name": "Marshfield",
-        "lat": 44.7603,
-        "lon": -90.097801,
-        "city": "Marshfield",
-        "county": "Marathon County",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "MTLO",
-        "name": "Montello",
-        "lat": 43.853901,
-        "lon": -89.283798,
-        "city": "Montello",
-        "county": "Marquette",
-        "region": "Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "NASE",
-        "name": "Nasewaupee",
-        "lat": 44.789398,
-        "lon": -87.4561,
-        "city": "Nasewaupee",
-        "county": "Door",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "NBLN",
-        "name": "New Berlin",
-        "lat": 42.976002,
-        "lon": -88.120003,
-        "city": "New Berlin",
-        "county": "Waukesha",
-        "region": "Southeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "OJNR",
-        "name": "Verona",
-        "lat": 43.025002,
-        "lon": -89.536697,
-        "city": "Verona",
-        "county": "Dane",
-        "region": "South Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "OSEO",
-        "name": "Osseo",
-        "lat": 44.59,
-        "lon": -91.265999,
-        "city": "Osseo",
-        "county": "Trempealeau",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "PARS",
-        "name": "Sturgeon Bay",
-        "lat": 44.880199,
-        "lon": -87.329597,
-        "city": "Sturgeon Bay",
-        "county": "Door",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "PLYM",
-        "name": "Plymouth",
-        "lat": 43.777199,
-        "lon": -87.9515,
-        "city": "Plymouth",
-        "county": "Sheboygan",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "RCHD",
-        "name": "Richland Center",
-        "lat": 43.369999,
-        "lon": -90.383003,
-        "city": "Richland Center",
-        "county": "Richland",
-        "region": "Southern",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "RIPN",
-        "name": "Ripon",
-        "lat": 43.905602,
-        "lon": -88.846703,
-        "city": "Ripon",
-        "county": "Winnebago",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "RLKE",
-        "name": "Rice Lake",
-        "lat": 45.523331,
-        "lon": -91.844292,
-        "city": "Rice Lake",
-        "county": "Barron",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "RNLD",
-        "name": "Rhinelander",
-        "lat": 45.654598,
-        "lon": -89.268204,
-        "city": "Rhinelander",
-        "county": "Oneida County",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "RTHR",
-        "name": "Arthur",
-        "lat": 45.032001,
-        "lon": -91.199997,
-        "city": "Arthur",
-        "county": "Chippewa",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "SHGD",
-        "name": "Shanagolden",
-        "lat": 46.10701,
-        "lon": -90.80793,
-        "city": "Shanagolden",
-        "county": "Ashland",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "SIBA",
-        "name": "Sister Bay",
-        "lat": 45.219101,
-        "lon": -87.0662,
-        "city": "Sister Bay",
-        "county": "Door",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "SMKE",
-        "name": "South Milwaukee",
-        "lat": 42.901299,
-        "lon": -87.851196,
-        "city": "South Milwaukee",
-        "county": "Milwaukee",
-        "region": "Southeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "SODO",
-        "name": "Southern Door",
-        "lat": 44.778999,
-        "lon": -87.355598,
-        "city": "Sturgeon Bay",
-        "county": "Door",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "SPNR",
-        "name": "Spooner",
-        "lat": 45.827,
-        "lon": -91.861397,
-        "city": "Spooner",
-        "county": "Washburn County",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "SRNG",
-        "name": "Suring",
-        "lat": 44.999001,
-        "lon": -88.342697,
-        "city": "Suring",
-        "county": "Oconto",
-        "region": "Northeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "STAR",
-        "name": "Soldiers Grove",
-        "lat": 43.378399,
-        "lon": -90.900002,
-        "city": "Soldiers Grove",
-        "county": "Crawford",
-        "region": "Southwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "TCDA",
-        "name": "Taycheedah",
-        "lat": 43.84317,
-        "lon": -88.370872,
-        "city": "Taycheedah",
-        "county": "Fond du Lac",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "UGRV",
-        "name": "Yorkville",
-        "lat": 42.7281,
-        "lon": -88.028,
-        "city": "Union Grove",
-        "county": "Racine",
-        "region": "Southeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "UWRF",
-        "name": "River Falls",
-        "lat": 44.842499,
-        "lon": -92.6129,
-        "city": "River Falls",
-        "county": "Pierce",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "VLDR",
-        "name": "Valders",
-        "lat": 44.004398,
-        "lon": -87.8228,
-        "city": "Valders",
-        "county": "Manitowoc",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "WBRO",
-        "name": "Westboro",
-        "lat": 45.31929,
-        "lon": -90.355469,
-        "city": "westboro",
-        "county": "Taylor",
-        "region": "North Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "WCRS",
-        "name": "Black River Falls",
-        "lat": 44.1852,
-        "lon": -90.742798,
-        "city": "Black River Falls",
-        "county": "Jackson",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "WDVL",
-        "name": "Woodville",
-        "lat": 44.943001,
-        "lon": -92.287003,
-        "city": "Woodville",
-        "county": "St. Croix",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "WJPT",
-        "name": "West Jacksonport",
-        "lat": 45.009998,
-        "lon": -87.233498,
-        "city": "West Jacksonport",
-        "county": "Door",
-        "region": "East Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "WKSN",
-        "name": "Wilkinson",
-        "lat": 45.508121,
-        "lon": -91.459503,
-        "city": "Wilkinson",
-        "county": "Rusk",
-        "region": "Northwest",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "WRNS",
-        "name": "Warrens",
-        "lat": 44.116699,
-        "lon": -90.412102,
-        "city": "Warrens",
-        "county": "Monroe",
-        "region": "West Central",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      },
-      {
-        "id": "WTBG",
-        "name": "Wittenberg",
-        "lat": 44.866001,
-        "lon": -89.023552,
-        "city": "Wittenberg",
-        "county": "Shawano",
-        "region": "Northeast",
-        "tarspot_risk": -1.0,
-        "tarspot_risk_class": "Inactive",
-        "gls_risk": -1.0,
-        "gls_risk_class": "Inactive",
-        "fe_risk": -1.0,
-        "fe_risk_class": "Inactive",
-        "whitemold_nirr_risk": -1.0,
-        "whitemold_nirr_risk_class": "Inactive",
-        "whitemold_irr_30in_risk": -1.0,
-        "whitemold_irr_30in_class": "Inactive",
-        "whitemold_irr_15in_risk": -1.0,
-        "whitemold_irr_15in_class": "Inactive"
-      }
     ]
   },
   "available_dates": [
+    "2026-05-25",
     "2026-05-24",
     "2026-05-23",
     "2026-05-22",
     "2026-05-21",
     "2026-05-20",
-    "2026-05-19",
-    "2026-05-18"
+    "2026-05-19"
   ],
   "model_info": {
     "tarspot": {
@@ -13835,7 +14147,8 @@
         52.2,
         48.7,
         53.8,
-        62.6
+        62.6,
+        65.5
       ],
       "precip_in": [
         0.0,
@@ -14089,7 +14402,8 @@
         0.0,
         0.0,
         0.0,
-        0.01
+        0.01,
+        0.0
       ]
     },
     "ANGO": {
@@ -14346,7 +14660,8 @@
         48.4,
         46.8,
         53.2,
-        57.0
+        57.0,
+        61.2
       ],
       "precip_in": [
         0.0,
@@ -14600,7 +14915,8 @@
         0.0,
         0.0,
         0.0,
-        0.07
+        0.07,
+        0.0
       ]
     },
     "BBCK": {
@@ -14857,7 +15173,8 @@
         52.3,
         51.8,
         55.2,
-        58.6
+        58.6,
+        63.7
       ],
       "precip_in": [
         0.0,
@@ -15111,7 +15428,8 @@
         0.0,
         0.0,
         0.11,
-        0.02
+        0.02,
+        0.0
       ]
     },
     "BCVL": {
@@ -15368,7 +15686,8 @@
         53.4,
         49.3,
         54.0,
-        62.8
+        62.8,
+        null
       ],
       "precip_in": [
         0.0,
@@ -15619,6 +15938,7 @@
         0.06,
         0.14,
         0.32,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -15879,7 +16199,8 @@
         53.6,
         49.5,
         54.1,
-        61.7
+        61.7,
+        66.0
       ],
       "precip_in": [
         0.0,
@@ -16130,6 +16451,7 @@
         0.46,
         0.17,
         0.29,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -16390,7 +16712,8 @@
         52.3,
         49.1,
         54.9,
-        61.3
+        61.3,
+        63.7
       ],
       "precip_in": [
         0.0,
@@ -16644,7 +16967,8 @@
         0.0,
         0.0,
         0.0,
-        0.02
+        0.02,
+        0.0
       ]
     },
     "BLCR": {
@@ -16901,7 +17225,8 @@
         51.1,
         48.2,
         55.6,
-        59.9
+        59.9,
+        63.5
       ],
       "precip_in": [
         0.0,
@@ -17155,7 +17480,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.03
       ]
     },
     "BRLN": {
@@ -17412,7 +17738,8 @@
         49.6,
         46.0,
         52.5,
-        57.0
+        57.0,
+        61.3
       ],
       "precip_in": [
         0.0,
@@ -17666,7 +17993,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.01
       ]
     },
     "BSTL": {
@@ -17923,7 +18251,8 @@
         51.1,
         48.4,
         55.8,
-        57.4
+        57.4,
+        62.1
       ],
       "precip_in": [
         0.0,
@@ -18177,7 +18506,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.31
       ]
     },
     "BYFD": {
@@ -18434,7 +18764,8 @@
         45.9,
         47.3,
         48.9,
-        49.1
+        49.1,
+        null
       ],
       "precip_in": [
         0.0,
@@ -18688,7 +19019,8 @@
         0.0,
         0.0,
         0.0,
-        0.39
+        0.39,
+        0.0
       ]
     },
     "CLLK": {
@@ -18945,7 +19277,8 @@
         48.2,
         52.7,
         54.3,
-        56.7
+        56.7,
+        63.0
       ],
       "precip_in": [
         0.0,
@@ -19199,7 +19532,8 @@
         0.0,
         0.0,
         0.09,
-        0.08
+        0.08,
+        0.0
       ]
     },
     "CNDN": {
@@ -19456,7 +19790,8 @@
         46.6,
         45.9,
         52.2,
-        56.5
+        56.5,
+        58.6
       ],
       "precip_in": [
         0.0,
@@ -19710,7 +20045,8 @@
         0.0,
         0.01,
         0.0,
-        0.01
+        0.01,
+        0.0
       ]
     },
     "COSP": {
@@ -19967,7 +20303,8 @@
         53.2,
         49.3,
         55.9,
-        61.9
+        61.9,
+        64.9
       ],
       "precip_in": [
         0.0,
@@ -20221,7 +20558,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.01
       ]
     },
     "CREX": {
@@ -20478,7 +20816,8 @@
         48.7,
         52.5,
         50.7,
-        56.1
+        56.1,
+        null
       ],
       "precip_in": [
         0.0,
@@ -20732,7 +21071,8 @@
         0.0,
         0.0,
         0.13,
-        0.02
+        0.02,
+        0.0
       ]
     },
     "CTLR": {
@@ -20989,7 +21329,8 @@
         53.8,
         51.8,
         55.8,
-        59.9
+        59.9,
+        63.9
       ],
       "precip_in": [
         0.0,
@@ -21243,7 +21584,8 @@
         0.0,
         0.0,
         0.02,
-        0.02
+        0.02,
+        0.01
       ]
     },
     "CVTZ": {
@@ -21500,7 +21842,8 @@
         50.5,
         46.8,
         53.1,
-        55.6
+        55.6,
+        null
       ],
       "precip_in": [
         0.0,
@@ -21754,7 +22097,8 @@
         0.01,
         0.0,
         0.01,
-        0.07
+        0.07,
+        0.0
       ]
     },
     "DEPR": {
@@ -22011,7 +22355,8 @@
         50.2,
         46.8,
         53.6,
-        57.0
+        57.0,
+        60.8
       ],
       "precip_in": [
         0.0,
@@ -22265,7 +22610,8 @@
         0.0,
         0.0,
         0.0,
-        0.03
+        0.03,
+        0.07
       ]
     },
     "DFRC": {
@@ -22522,7 +22868,8 @@
         54.1,
         51.1,
         55.9,
-        63.1
+        63.1,
+        66.0
       ],
       "precip_in": [
         0.0,
@@ -22773,6 +23120,7 @@
         0.92,
         0.07,
         0.41,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -23033,7 +23381,8 @@
         54.3,
         50.7,
         55.2,
-        63.1
+        63.1,
+        67.1
       ],
       "precip_in": [
         0.0,
@@ -23284,6 +23633,7 @@
         0.18,
         0.19,
         0.25,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -23544,7 +23894,8 @@
         50.7,
         52.7,
         56.7,
-        59.9
+        59.9,
+        64.4
       ],
       "precip_in": [
         0.0,
@@ -23798,7 +24149,8 @@
         0.0,
         0.0,
         0.0,
-        0.03
+        0.03,
+        0.0
       ]
     },
     "DUDA": {
@@ -24055,7 +24407,8 @@
         53.6,
         50.2,
         57.6,
-        62.2
+        62.2,
+        65.3
       ],
       "precip_in": [
         0.0,
@@ -24309,7 +24662,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.13
       ]
     },
     "EGHA": {
@@ -24566,7 +24920,8 @@
         47.1,
         43.9,
         53.1,
-        53.4
+        53.4,
+        55.2
       ],
       "precip_in": [
         0.0,
@@ -24820,7 +25175,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.03
       ]
     },
     "FFEC": {
@@ -25077,7 +25433,8 @@
         52.9,
         50.2,
         55.4,
-        61.0
+        61.0,
+        65.7
       ],
       "precip_in": [
         0.0,
@@ -25328,6 +25685,7 @@
         0.97,
         0.27,
         0.53,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -25588,7 +25946,8 @@
         48.0,
         51.1,
         54.3,
-        55.8
+        55.8,
+        59.4
       ],
       "precip_in": [
         0.0,
@@ -25842,7 +26201,8 @@
         0.0,
         0.0,
         0.0,
-        0.16
+        0.16,
+        0.0
       ]
     },
     "FRCD": {
@@ -26099,7 +26459,8 @@
         51.6,
         52.0,
         55.4,
-        59.0
+        59.0,
+        65.1
       ],
       "precip_in": [
         0.0,
@@ -26349,6 +26710,7 @@
         0.0,
         0.53,
         0.28,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -26610,7 +26972,8 @@
         49.3,
         45.9,
         51.8,
-        53.4
+        53.4,
+        56.5
       ],
       "precip_in": [
         0.0,
@@ -26864,7 +27227,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.02
       ]
     },
     "GLCP": {
@@ -27121,7 +27485,8 @@
         54.1,
         49.8,
         56.8,
-        64.0
+        64.0,
+        66.2
       ],
       "precip_in": [
         0.0,
@@ -27375,7 +27740,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.01
       ]
     },
     "GLSN": {
@@ -27632,7 +27998,8 @@
         48.2,
         47.7,
         52.9,
-        56.5
+        56.5,
+        null
       ],
       "precip_in": [
         0.0,
@@ -27886,7 +28253,8 @@
         0.0,
         0.0,
         0.0,
-        0.05
+        0.05,
+        0.0
       ]
     },
     "GMSH": {
@@ -28143,7 +28511,8 @@
         53.2,
         50.4,
         55.0,
-        61.2
+        61.2,
+        64.8
       ],
       "precip_in": [
         0.0,
@@ -28394,6 +28763,7 @@
         0.39,
         0.04,
         0.28,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -28654,7 +29024,8 @@
         50.9,
         50.7,
         55.0,
-        57.4
+        57.4,
+        62.6
       ],
       "precip_in": [
         0.0,
@@ -28908,6 +29279,7 @@
         0.0,
         0.0,
         0.04,
+        0.0,
         0.0
       ]
     },
@@ -29165,7 +29537,8 @@
         46.8,
         44.6,
         51.3,
-        55.6
+        55.6,
+        null
       ],
       "precip_in": [
         0.0,
@@ -29416,6 +29789,7 @@
         0.04,
         0.32,
         0.12,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -29676,7 +30050,8 @@
         52.7,
         50.5,
         55.9,
-        61.7
+        61.7,
+        65.1
       ],
       "precip_in": [
         0.0,
@@ -29930,7 +30305,8 @@
         0.0,
         0.0,
         0.0,
-        0.04
+        0.04,
+        0.01
       ]
     },
     "HNTR": {
@@ -30187,7 +30563,8 @@
         47.7,
         50.0,
         54.7,
-        55.6
+        55.6,
+        null
       ],
       "precip_in": [
         0.0,
@@ -30441,7 +30818,8 @@
         0.0,
         0.0,
         0.0,
-        0.07
+        0.07,
+        0.0
       ]
     },
     "HRVR": {
@@ -30698,7 +31076,8 @@
         49.8,
         53.2,
         55.8,
-        57.0
+        57.0,
+        null
       ],
       "precip_in": [
         0.0,
@@ -30952,7 +31331,8 @@
         0.0,
         0.0,
         0.0,
-        0.02
+        0.02,
+        0.0
       ]
     },
     "IOLA": {
@@ -31209,7 +31589,8 @@
         52.3,
         49.3,
         54.7,
-        60.1
+        60.1,
+        62.8
       ],
       "precip_in": [
         0.0,
@@ -31463,7 +31844,8 @@
         0.0,
         0.0,
         0.0,
-        0.06
+        0.06,
+        0.01
       ]
     },
     "KEMP": {
@@ -31720,7 +32102,8 @@
         46.4,
         49.6,
         55.0,
-        55.6
+        55.6,
+        60.4
       ],
       "precip_in": [
         0.0,
@@ -31974,7 +32357,8 @@
         0.0,
         0.0,
         0.01,
-        0.06
+        0.06,
+        0.01
       ]
     },
     "KNGT": {
@@ -32231,7 +32615,8 @@
         43.7,
         48.4,
         55.4,
-        56.1
+        56.1,
+        58.8
       ],
       "precip_in": [
         0.0,
@@ -32485,7 +32870,8 @@
         0.01,
         0.0,
         0.0,
-        0.07
+        0.07,
+        0.01
       ]
     },
     "KSKM": {
@@ -32742,7 +33128,8 @@
         49.8,
         46.9,
         52.7,
-        58.3
+        58.3,
+        62.2
       ],
       "precip_in": [
         0.0,
@@ -32996,7 +33383,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.01
       ]
     },
     "KWNE": {
@@ -33253,7 +33641,8 @@
         48.9,
         45.3,
         52.9,
-        53.8
+        53.8,
+        57.6
       ],
       "precip_in": [
         0.0,
@@ -33507,7 +33896,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.02
       ]
     },
     "LAFG": {
@@ -33764,7 +34154,8 @@
         52.7,
         51.3,
         54.7,
-        58.6
+        58.6,
+        63.5
       ],
       "precip_in": [
         0.0,
@@ -34018,7 +34409,8 @@
         0.0,
         0.0,
         0.15,
-        0.03
+        0.03,
+        0.01
       ]
     },
     "LNCT": {
@@ -34275,7 +34667,8 @@
         54.3,
         50.9,
         54.7,
-        62.6
+        62.6,
+        66.4
       ],
       "precip_in": [
         0.0,
@@ -34529,7 +34922,8 @@
         0.0,
         0.0,
         0.01,
-        0.01
+        0.01,
+        0.0
       ]
     },
     "LOLK": {
@@ -34786,7 +35180,8 @@
         52.9,
         48.7,
         53.1,
-        60.8
+        60.8,
+        64.2
       ],
       "precip_in": [
         0.0,
@@ -35040,7 +35435,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.02
       ]
     },
     "LXBG": {
@@ -35297,7 +35693,8 @@
         49.1,
         46.0,
         53.8,
-        55.0
+        55.0,
+        58.3
       ],
       "precip_in": [
         0.0,
@@ -35548,6 +35945,7 @@
         0.84,
         0.01,
         0.01,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -35808,7 +36206,8 @@
         48.9,
         43.3,
         42.6,
-        46.0
+        46.0,
+        56.1
       ],
       "precip_in": [
         0.0,
@@ -36062,7 +36461,8 @@
         0.0,
         0.0,
         0.0,
-        0.28
+        0.28,
+        0.0
       ]
     },
     "MNDR": {
@@ -36319,7 +36719,8 @@
         51.8,
         51.1,
         52.7,
-        58.1
+        58.1,
+        null
       ],
       "precip_in": [
         0.0,
@@ -36573,7 +36974,8 @@
         0.0,
         0.0,
         0.05,
-        0.02
+        0.02,
+        0.0
       ]
     },
     "MNTN": {
@@ -36830,7 +37232,8 @@
         49.5,
         52.3,
         54.5,
-        57.9
+        57.9,
+        64.8
       ],
       "precip_in": [
         0.0,
@@ -37081,6 +37484,7 @@
         0.3,
         0.77,
         0.01,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -37341,7 +37745,8 @@
         45.9,
         49.8,
         54.3,
-        55.6
+        55.6,
+        60.3
       ],
       "precip_in": [
         0.0,
@@ -37595,7 +38000,8 @@
         0.0,
         0.0,
         0.01,
-        0.08
+        0.08,
+        0.1
       ]
     },
     "MRFD": {
@@ -37852,7 +38258,8 @@
         50.2,
         49.6,
         54.9,
-        55.8
+        55.8,
+        63.1
       ],
       "precip_in": [
         0.0,
@@ -38106,7 +38513,8 @@
         0.0,
         0.0,
         0.08,
-        0.48
+        0.48,
+        0.0
       ]
     },
     "MTLO": {
@@ -38363,7 +38771,8 @@
         53.4,
         49.8,
         55.4,
-        61.7
+        61.7,
+        64.9
       ],
       "precip_in": [
         0.0,
@@ -38617,7 +39026,8 @@
         0.0,
         0.0,
         0.0,
-        0.01
+        0.01,
+        0.0
       ]
     },
     "NASE": {
@@ -38874,7 +39284,8 @@
         48.0,
         45.5,
         52.9,
-        53.4
+        53.4,
+        55.8
       ],
       "precip_in": [
         0.0,
@@ -39128,7 +39539,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.01
       ]
     },
     "NBLN": {
@@ -39385,7 +39797,8 @@
         50.9,
         46.6,
         53.1,
-        57.6
+        57.6,
+        63.1
       ],
       "precip_in": [
         0.0,
@@ -39639,7 +40052,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.12
       ]
     },
     "OJNR": {
@@ -39896,7 +40310,8 @@
         53.4,
         50.0,
         55.4,
-        63.5
+        63.5,
+        64.9
       ],
       "precip_in": [
         0.0,
@@ -40147,6 +40562,7 @@
         0.53,
         0.16,
         0.22,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -40407,7 +40823,8 @@
         51.4,
         52.0,
         55.9,
-        59.5
+        59.5,
+        64.0
       ],
       "precip_in": [
         0.0,
@@ -40658,6 +41075,7 @@
         0.75,
         0.35,
         0.01,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -40918,7 +41336,8 @@
         46.9,
         44.6,
         52.2,
-        52.3
+        52.3,
+        54.0
       ],
       "precip_in": [
         0.0,
@@ -41172,6 +41591,7 @@
         0.0,
         0.0,
         0.0,
+        0.01,
         0.01
       ]
     },
@@ -41429,7 +41849,8 @@
         49.1,
         46.4,
         52.2,
-        55.8
+        55.8,
+        59.9
       ],
       "precip_in": [
         0.0,
@@ -41680,6 +42101,7 @@
         0.46,
         0.02,
         0.03,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -41940,7 +42362,8 @@
         54.5,
         52.0,
         56.3,
-        61.9
+        61.9,
+        64.6
       ],
       "precip_in": [
         0.0,
@@ -42194,7 +42617,8 @@
         0.01,
         0.0,
         0.03,
-        0.01
+        0.01,
+        0.0
       ]
     },
     "RIPN": {
@@ -42451,7 +42875,8 @@
         52.9,
         49.5,
         55.9,
-        62.1
+        62.1,
+        64.9
       ],
       "precip_in": [
         0.0,
@@ -42705,7 +43130,8 @@
         0.0,
         0.0,
         0.0,
-        0.01
+        0.01,
+        0.0
       ]
     },
     "RLKE": {
@@ -42962,7 +43388,8 @@
         48.9,
         52.5,
         54.3,
-        54.3
+        54.3,
+        null
       ],
       "precip_in": [
         0.0,
@@ -43216,7 +43643,8 @@
         0.0,
         0.0,
         0.0,
-        0.14
+        0.14,
+        0.0
       ]
     },
     "RNLD": {
@@ -43473,7 +43901,8 @@
         46.9,
         47.3,
         54.5,
-        56.8
+        56.8,
+        61.0
       ],
       "precip_in": [
         0.0,
@@ -43727,7 +44156,8 @@
         0.0,
         0.0,
         0.0,
-        0.07
+        0.07,
+        0.0
       ]
     },
     "RTHR": {
@@ -43984,7 +44414,8 @@
         50.2,
         52.7,
         56.3,
-        58.6
+        58.6,
+        61.3
       ],
       "precip_in": [
         0.0,
@@ -44235,6 +44666,7 @@
         0.1,
         0.69,
         0.01,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -44495,7 +44927,8 @@
         46.0,
         49.6,
         54.9,
-        55.6
+        55.6,
+        57.7
       ],
       "precip_in": [
         0.0,
@@ -44749,7 +45182,8 @@
         0.01,
         0.0,
         0.0,
-        0.03
+        0.03,
+        0.02
       ]
     },
     "SIBA": {
@@ -45006,7 +45440,8 @@
         45.5,
         44.4,
         51.8,
-        51.3
+        51.3,
+        52.3
       ],
       "precip_in": [
         0.0,
@@ -45260,7 +45695,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.04
       ]
     },
     "SMKE": {
@@ -45517,7 +45953,8 @@
         50.5,
         45.3,
         50.9,
-        52.3
+        52.3,
+        56.1
       ],
       "precip_in": [
         0.0,
@@ -45771,7 +46208,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.24
       ]
     },
     "SODO": {
@@ -46028,7 +46466,8 @@
         47.1,
         44.4,
         51.8,
-        51.8
+        51.8,
+        54.0
       ],
       "precip_in": [
         0.0,
@@ -46282,7 +46721,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.01
       ]
     },
     "SPNR": {
@@ -46539,7 +46979,8 @@
         50.2,
         54.5,
         56.8,
-        56.1
+        56.1,
+        63.1
       ],
       "precip_in": [
         0.0,
@@ -46793,7 +47234,8 @@
         0.0,
         0.0,
         0.0,
-        0.15
+        0.15,
+        0.0
       ]
     },
     "SRNG": {
@@ -47050,7 +47492,8 @@
         50.9,
         46.8,
         54.0,
-        56.7
+        56.7,
+        60.1
       ],
       "precip_in": [
         0.0,
@@ -47304,7 +47747,8 @@
         0.0,
         0.0,
         0.0,
-        0.01
+        0.01,
+        0.07
       ]
     },
     "STAR": {
@@ -47561,7 +48005,8 @@
         53.2,
         50.7,
         53.4,
-        59.7
+        59.7,
+        65.8
       ],
       "precip_in": [
         0.0,
@@ -47815,7 +48260,8 @@
         0.0,
         0.0,
         0.04,
-        0.04
+        0.04,
+        0.01
       ]
     },
     "TCDA": {
@@ -48072,7 +48518,8 @@
         52.3,
         48.6,
         54.3,
-        59.7
+        59.7,
+        62.4
       ],
       "precip_in": [
         0.0,
@@ -48323,6 +48770,7 @@
         0.3,
         0.02,
         0.16,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -48583,7 +49031,8 @@
         51.6,
         47.7,
         54.9,
-        57.9
+        57.9,
+        62.1
       ],
       "precip_in": [
         0.0,
@@ -48837,7 +49286,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.33
       ]
     },
     "UWRF": {
@@ -49094,7 +49544,8 @@
         47.5,
         52.9,
         54.5,
-        58.3
+        58.3,
+        63.0
       ],
       "precip_in": [
         0.0,
@@ -49348,7 +49799,8 @@
         0.0,
         0.0,
         0.1,
-        0.02
+        0.02,
+        0.0
       ]
     },
     "VLDR": {
@@ -49605,7 +50057,8 @@
         48.6,
         45.9,
         51.8,
-        54.3
+        54.3,
+        57.6
       ],
       "precip_in": [
         0.0,
@@ -49859,7 +50312,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.03
       ]
     },
     "WBRO": {
@@ -50116,7 +50570,8 @@
         48.2,
         49.8,
         53.1,
-        54.9
+        54.9,
+        59.7
       ],
       "precip_in": [
         0.0,
@@ -50370,7 +50825,8 @@
         0.0,
         0.0,
         0.0,
-        0.01
+        0.01,
+        0.0
       ]
     },
     "WCRS": {
@@ -50627,7 +51083,8 @@
         52.9,
         52.2,
         56.3,
-        58.8
+        58.8,
+        62.2
       ],
       "precip_in": [
         0.0,
@@ -50881,7 +51338,8 @@
         0.0,
         0.0,
         0.03,
-        0.01
+        0.01,
+        0.0
       ]
     },
     "WDVL": {
@@ -51138,7 +51596,8 @@
         47.7,
         52.0,
         54.9,
-        57.0
+        57.0,
+        62.4
       ],
       "precip_in": [
         0.0,
@@ -51392,7 +51851,8 @@
         0.0,
         0.0,
         0.03,
-        0.08
+        0.08,
+        0.0
       ]
     },
     "WJPT": {
@@ -51649,7 +52109,8 @@
         46.6,
         44.4,
         52.3,
-        52.5
+        52.5,
+        54.0
       ],
       "precip_in": [
         0.0,
@@ -51903,7 +52364,8 @@
         0.0,
         0.0,
         0.0,
-        0.0
+        0.0,
+        0.03
       ]
     },
     "WKSN": {
@@ -52160,7 +52622,8 @@
         48.0,
         50.5,
         53.8,
-        53.6
+        53.6,
+        null
       ],
       "precip_in": [
         0.0,
@@ -52414,7 +52877,8 @@
         0.0,
         0.0,
         0.0,
-        0.19
+        0.19,
+        0.0
       ]
     },
     "WRNS": {
@@ -52671,7 +53135,8 @@
         54.0,
         52.0,
         55.2,
-        59.2
+        59.2,
+        64.0
       ],
       "precip_in": [
         0.0,
@@ -52925,6 +53390,7 @@
         0.0,
         0.0,
         0.28,
+        0.01,
         0.01
       ]
     },
@@ -53182,7 +53648,8 @@
         50.5,
         47.8,
         53.8,
-        58.6
+        58.6,
+        61.3
       ],
       "precip_in": [
         0.0,
@@ -53436,12 +53903,13 @@
         0.0,
         0.01,
         0.0,
+        0.0,
         0.0
       ]
     }
   },
   "weather_window": {
     "start": "2025-09-15",
-    "end": "2026-05-24"
+    "end": "2026-05-25"
   }
 }
