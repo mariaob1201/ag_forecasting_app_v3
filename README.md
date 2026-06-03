@@ -140,6 +140,31 @@ where most of the bugs live, and they're fully covered here.
 
 ---
 
+## Crop risk models
+
+Selected field-crop and vegetable disease-model outputs are provided.
+These models are subject to change. The calculations used to generate
+each model prediction can be viewed in the source code.
+
+### Field-crop diseases
+
+- **White mold (soybean)** — <https://cropprotectionnetwork.org/encyclopedia/white-mold-of-soybean>
+- **Frogeye leaf spot (soybean)** — <https://cropprotectionnetwork.org/encyclopedia/frogeye-leaf-spot-of-soybean>
+- **Gray leaf spot (corn)** — <https://cropprotectionnetwork.org/encyclopedia/gray-leaf-spot-of-corn>
+- **Tar spot (corn)** — <https://cropprotectionnetwork.org/encyclopedia/tar-spot-of-corn>
+- **Gibberella ear rot / DON contamination (corn)** — <https://cropprotectionnetwork.org/encyclopedia/gibberella-ear-rot-of-corn>
+- **Wheat scab / Fusarium head blight (wheat)** — <https://cropprotectionnetwork.org/publications/an-overview-of-fusarium-head-blight>
+
+### Vegetable-crop diseases
+
+- **Early blight (potato / tomato)** — <https://vegpath.plantpath.wisc.edu/diseases/potato-early-blight/>
+- **Late blight (potato / tomato)** — <https://vegpath.plantpath.wisc.edu/diseases/potato-late-blight/>
+- **Alternaria and Cercospora leaf blights (carrot)** — <https://vegpath.plantpath.wisc.edu/diseases/carrot-alternaria-and-cercospora-leaf-blights/>
+- **Cercospora leaf spot (beet)** — <https://www.vegetables.cornell.edu/pest-management/disease-factsheets/cercospora-leaf-spot-of-table-beet/>
+- **Botrytis leaf blight (onion)** — <https://vegpath.plantpath.wisc.edu/diseases/onion-botrytis/>
+
+---
+
 ## API reference
 
 ```
@@ -164,3 +189,12 @@ records. `features/data.py:flatten_features()` pivots
   the values match `CLASS_COLORS` / `CLASS_ORDER`.
 - Out of season, all stations report `-1` / `Inactive` — the map will
   be mostly gray. Pick a mid-growing-season date to see live colors.
+
+---
+
+## Credits and contacts
+
+- **Damon Smith** — Extension Field Crops Pathologist
+  · <damon.smith@wisc.edu>
+- **María Oros** — Data Scientist, Data Science Institute at UW–Madison
+  · <moros2@wisc.edu>
