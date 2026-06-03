@@ -11,13 +11,18 @@
 #   4. `myresolver` must match the certresolver name configured on
 #      your Traefik instance (often `letsencrypt`).
 #
-# Daily data refresh:  cron'd `docker compose up -d --build` on the
-# host. The Dockerfile re-runs build_site.py at build time, baking
-# fresh disease + biomass + weather snapshots into the image.
+# Daily data refresh:  cron'd `cd web && docker compose up -d --build`
+# on the host. The Dockerfile re-runs build_site.py at build time,
+# baking fresh disease + biomass + weather snapshots into the image.
 
 services:
   web:
-    build: .
+    # Build context is the repo root so the image can pull in shared code
+    # (features/, assets/) that the Streamlit app also uses. The Dockerfile
+    # itself lives next to this file in web/.
+    build:
+      context: ..
+      dockerfile: web/Dockerfile
     image: ag-forecasting-web:latest
     container_name: ag-forecasting-web
     restart: unless-stopped

@@ -5,7 +5,12 @@
 #   • uvicorn runs the proxy on 127.0.0.1:8000; nginx forwards /proxy/*
 #   • start.sh boots both processes; tini reaps zombies as PID 1
 #
-# Daily refresh of bundled data = `docker compose up -d --build`.
+# IMPORTANT: built from the REPO ROOT (see web/docker-compose.yml's
+# `context: ..`), so COPY paths reference repo-root locations. Shared
+# code (features/, assets/) lives alongside the Streamlit app at the
+# root; website-only files live under web/.
+#
+# Daily refresh: `cd web && docker compose up -d --build`.
 
 FROM python:3.11-slim
 
@@ -23,15 +28,17 @@ COPY requirements.txt ./
 RUN pip install --no-cache-dir -U pip \
  && pip install --no-cache-dir -r requirements.txt
 
-# Source tree.
-COPY features/      ./features/
-COPY backend/       ./backend/
-COPY assets/        ./assets/
-COPY site/          ./site/
-COPY build_site.py  start.sh ./
+# Source tree. Shared code (features/, assets/) stays at /app top-level
+# so the existing imports (`from features.api import ...`) keep working
+# without any sys.path manipulation inside the container.
+COPY features/         ./features/
+COPY assets/           ./assets/
+COPY web/backend/      ./backend/
+COPY web/site/         ./site/
+COPY web/build_site.py web/start.sh ./
 
 # nginx config (the only server block we want).
-COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY web/nginx.conf /etc/nginx/conf.d/default.conf
 
 # Build the bundled snapshot for fast first-load. If wiscopy can't
 # reach Wisconet from inside the container, weather + biomass are

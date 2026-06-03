@@ -23,6 +23,15 @@ import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
+# Add the repo root to sys.path so `from features.…` works when this
+# script is run from the repo root as `python web/build_site.py`. Inside
+# the Docker image features/ is COPYed to /app/features/ and this is a
+# no-op. (See web/Dockerfile.)
+_THIS_DIR = Path(__file__).resolve().parent          # …/web
+_REPO_ROOT = _THIS_DIR.parent                         # …/ (repo root)
+if str(_REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(_REPO_ROOT))
+
 import pandas as pd
 
 from features.api import fetch_forecast, fetch_model_info
@@ -39,11 +48,18 @@ from features.config import (
 from features.crereal_rye_biomass import biomass_per_station, classify_biomass
 from features.data import flatten_features, normalize_class
 
-PROJECT_ROOT = Path(__file__).parent
-ASSETS_SRC = PROJECT_ROOT / "assets"
-SITE = PROJECT_ROOT / "site"
+# Layout — works from the host (web/ vs repo-root assets/) AND from inside
+# the Docker image (everything lives flat under /app/).
+WEB_DIR = _THIS_DIR
+SITE = WEB_DIR / "site"
 SITE_DATA = SITE / "data"
 SITE_ASSETS = SITE / "assets"
+
+# Try repo-root /assets first (host layout); fall back to /app/assets
+# (Dockerfile layout) so the same script works in both.
+_root_assets = _REPO_ROOT / "assets"
+_flat_assets = WEB_DIR / "assets"
+ASSETS_SRC = _root_assets if _root_assets.is_dir() else _flat_assets
 
 # How many consecutive days of disease forecasts to bundle into
 # latest.json. The static site's date picker snaps between these

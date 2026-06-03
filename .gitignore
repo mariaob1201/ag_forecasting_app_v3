@@ -1,6 +1,11 @@
 .idea/
 __pycache__/
 features/__pycache__/
+assets/__pycache__/
+web/__pycache__/
+features/__pycache__
+assets/__pycache__
+web/__pycache__
 *.pyc
 *.pyo
 *.pyd

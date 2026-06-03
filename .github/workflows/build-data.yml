@@ -2,12 +2,13 @@ name: Build site data
 
 on:
   schedule:
-    # Run daily at 12:00 UTC (~7am US/Central). Adjust to taste.
-    - cron: "0 12 * * *"
+    # Run daily at 04:00 UTC. Adjust to taste.
+    - cron: "0 4 * * *"
   workflow_dispatch:        # allow manual runs from the Actions tab
   push:
     paths:
-      - "build_site.py"
+      - "web/build_site.py"
+      - "web/backend/**"
       - "features/**"
       - ".github/workflows/build-data.yml"
 
@@ -31,13 +32,13 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build snapshot
-        run: python build_site.py
+        run: python web/build_site.py
 
       - name: Commit refreshed data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add site/data/ site/assets/
+          git add web/site/data/ web/site/assets/
           if git diff --staged --quiet; then
             echo "No changes — nothing to commit."
           else
