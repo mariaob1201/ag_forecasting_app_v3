@@ -12,11 +12,11 @@
 
   <link rel="stylesheet" href="assets/uw-brand.css">
 
-  <!-- Runtime config written by backend/main.py at startup from env vars
-       (GA_MEASUREMENT_ID, …). Loaded synchronously so it's available before
-       the analytics bootstrap below. A 404 here is fine — the bootstrap
-       no-ops when window.APP_CONFIG is missing. -->
-  <script src="/config.js"></script>
+  <!-- Runtime config served by backend/main.py (reads env vars on each
+       request — GA_MEASUREMENT_ID, …). Loaded synchronously so it's
+       available before the analytics bootstrap below. A 404 here is fine
+       — the bootstrap no-ops when window.APP_CONFIG is missing. -->
+  <script src="/proxy/config.js"></script>
   <script>
     (function () {
       var cfg = window.APP_CONFIG || {};
