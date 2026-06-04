@@ -111,8 +111,8 @@ def render_footer() -> None:
           Wisconsin Idea</a>.
       </li>
       <li>
-        Application authored by María Oros, Data Scientist at the Data Science
-        Institute, UW–Madison (<code>moros2@wisc.edu</code>).
+        Application and API both authored by María Oros, Data Scientist at the
+        Data Science Institute, UW–Madison (<code>moros2@wisc.edu</code>).
       </li>
     </ul>
   </div>
