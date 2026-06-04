@@ -88,6 +88,29 @@ streamlit run app.py
 The measurement id is read from `os.environ` at startup; leave the env
 var unset to disable analytics. See [`streamlit_app/analytics.py`](streamlit_app/analytics.py).
 
+### Optional: "💬 Ask about this forecast" (LLM-assisted explanations)
+
+The Disease Forecast tab includes an expander that lets users ask
+plain-language questions about the data on screen — e.g. *"why is
+Arlington High this week?"* or *"what does GDD mean?"*. It feeds the
+selected forecast + disease reference URL to OpenAI and renders the
+reply.
+
+```bash
+export OPENAI_API_KEY=sk-...
+# Optional override; defaults to gpt-4o-mini (small, ~$0.0001/query):
+export OPENAI_MODEL=gpt-4o-mini
+streamlit run app.py
+```
+
+Both env vars are read on every call — no source-level secrets. When
+`OPENAI_API_KEY` is unset, the expander renders a one-line setup hint
+instead of the chat UI, so the feature is invisible in dev/demo
+deploys without a key. The system prompt explicitly forbids treatment
+or product recommendations; for management decisions the model is
+instructed to refer users to a certified agronomist or UW Extension.
+See [`streamlit_app/llm.py`](streamlit_app/llm.py).
+
 ### Cached forecast calls
 
 `features/api.py:fetch_forecast()` is decorated with

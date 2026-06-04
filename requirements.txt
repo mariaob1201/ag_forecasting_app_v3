@@ -10,3 +10,7 @@ wiscopy>=0.1.0
 # Static-site / Docker deployment
 fastapi>=0.110
 uvicorn[standard]>=0.27
+
+# Optional — powers the "💬 Ask about this forecast" expander.
+# The feature no-ops gracefully when OPENAI_API_KEY is unset.
+openai>=1.40

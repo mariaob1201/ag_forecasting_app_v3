@@ -13,6 +13,7 @@ from features.config import CLASS_COLORS, DISEASE_OPTIONS
 from features.data import flatten_features, prepare_disease_df
 from features.map_view import build_map
 
+from streamlit_app.llm import render_chat_expander
 from streamlit_app.ui import NEUTRAL_TILE_COLOR, color_tile
 
 
@@ -162,5 +163,8 @@ def render_forecast_tab(selected_date, risk_days: int, disease_label: str) -> No
     st.plotly_chart(build_map(map_df, disease_label), use_container_width=True)
     show_model_info(model_name, disease_label)
     show_table(map_df, risk_field, class_field)
+    render_chat_expander(
+        selected_date.isoformat(), disease_label, map_df, risk_field, class_field,
+    )
 
     st.caption(f"Last loaded: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
