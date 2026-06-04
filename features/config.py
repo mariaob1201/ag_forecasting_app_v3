@@ -27,41 +27,50 @@ MODEL_INFO_TTL_SECONDS = 7 * 86_400
 # Add a new disease by appending another entry; the sidebar, map, and
 # "About this model" panel will pick it up automatically.
 DISEASE_OPTIONS = {
+    # ``thresholds`` give the probability at which each risk class begins, taken
+    # straight from the model logic (Smith et al.). They drive the dashed
+    # threshold lines on the Risk Trends chart.
     "Tar Spot (corn)": {
         "type": "disease",
         "risk_field": "tarspot_risk",
         "class_field": "tarspot_risk_class",
         "model_name": "tarspot",
+        "thresholds": {"Moderate": 0.20, "High": 0.35},
     },
     "Gray Leaf Spot (corn)": {
         "type": "disease",
         "risk_field": "gls_risk",
         "class_field": "gls_risk_class",
         "model_name": "gls_risk",
+        "thresholds": {"Moderate": 0.20, "High": 0.60},
     },
     "Frogeye Leaf Spot (soybean)": {
         "type": "disease",
         "risk_field": "fe_risk",
         "class_field": "fe_risk_class",
         "model_name": "frogeye_leaf_spot",
+        "thresholds": {"Moderate": 0.50, "High": 0.60},
     },
     "White Mold — Non-irrigated (soybean)": {
         "type": "disease",
         "risk_field": "whitemold_nirr_risk",
         "class_field": "whitemold_nirr_risk_class",
         "model_name": "whitemold_non_irrigated",
+        "thresholds": {"Moderate": 0.20, "High": 0.35},
     },
     "White Mold — Irrigated 30in (soybean)": {
         "type": "disease",
         "risk_field": "whitemold_irr_30in_risk",
         "class_field": "whitemold_irr_30in_class",
         "model_name": "whitemold_irrigated",
+        "thresholds": {"Moderate": 0.05, "High": 0.10},
     },
     "White Mold — Irrigated 15in (soybean)": {
         "type": "disease",
         "risk_field": "whitemold_irr_15in_risk",
         "class_field": "whitemold_irr_15in_class",
         "model_name": "whitemold_irrigated",
+        "thresholds": {"Moderate": 0.05, "High": 0.10},
     },
     "Cereal Rye Biomass": {
         "type": "biomass",
