@@ -71,13 +71,26 @@ DISEASE_OPTIONS = {
 
 # Marker colors per risk class. Keys must match the normalized class
 # strings produced by ``features.data.normalize_class``.
+#
+# Palette: Okabe–Ito (Nature Methods 2011) — designed to remain
+# distinguishable under all common forms of color-vision deficiency
+# (protanopia, deuteranopia, tritanopia). Avoids the red/green clash
+# that's invisible to ~5–8% of men in the previous palette.
+#
+#   Low      → bluish green   (#009E73)  — reads "green-ish" to typical vision
+#   Moderate → orange         (#E69F00)
+#   High     → vermillion     (#D55E00)  — distinct from orange under CVD
+#   Inactive → neutral gray   (#999999)
+#   No Risk  → same as Low (both mean "safe")
+#   Unknown  → light gray     (#CCCCCC)  — lighter than Inactive so the two
+#                                          stay distinguishable in the legend
 CLASS_COLORS = {
-    "Low": "#2ecc71",
-    "Moderate": "#f39c12",
-    "High": "#e74c3c",
-    "Inactive": "#95a5a6",
-    "No Risk": "#2ecc71",
-    "Unknown": "#bdc3c7",
+    "Low": "#009E73",
+    "Moderate": "#E69F00",
+    "High": "#D55E00",
+    "Inactive": "#999999",
+    "No Risk": "#009E73",
+    "Unknown": "#CCCCCC",
 }
 
 # Legend display order — riskiest first so the eye lands on it.
