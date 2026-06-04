@@ -84,19 +84,17 @@ def render_risk_trends_tab(selected_date, disease_label: str) -> None:
     # Risk is a 0–1 probability — show the axis and hover as percentages.
     fig.update_yaxes(tickformat=".0%", hoverformat=".1%", rangemode="tozero")
 
-    # Optional horizontal threshold lines (e.g. the action threshold), colored
-    # to match the risk class they gate. Configured per disease in
-    # DISEASE_OPTIONS["thresholds"] = {class_label: probability}.
+    # Simple horizontal threshold lines marking where each risk class begins.
+    # Configured per disease in DISEASE_OPTIONS["thresholds"] = {label: prob}.
     for class_label, level in (opts.get("thresholds") or {}).items():
         fig.add_hline(
             y=level,
-            line_dash="dash",
-            line_width=1.5,
-            line_color=CLASS_COLORS.get(class_label, "#6b7280"),
-            opacity=0.8,
-            annotation_text=f"{class_label} ≥ {level:.0%}",
-            annotation_position="top left",
-            annotation_font_size=11,
+            line_dash="dot",
+            line_width=1,
+            line_color="#6b7280",
+            annotation_text=f"{class_label} {level:.0%}",
+            annotation_position="top right",
+            annotation_font_size=10,
         )
 
     st.plotly_chart(fig, use_container_width=True)
