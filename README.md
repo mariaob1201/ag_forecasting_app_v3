@@ -133,7 +133,7 @@ even across app restarts. The sidebar **🔄 Refresh data** button calls
 
 ---
 
-## Static website (in progress)
+## Static website published in the Wisconet website
 
 Deployed at <https://ag-forecasting.services.dsi.wisc.edu>. All
 website-specific code lives under [`web/`](web/) — same Python helpers
